@@ -1,0 +1,34 @@
+name: Daily DSA Sync from Notion
+
+on:
+  schedule:
+    # Runs once a day. This is in UTC — 14:30 UTC = 8:00 PM IST.
+    # Adjust to whenever you'd actually like to see the commit land.
+    - cron: "30 14 * * *"
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Notion -> GitHub sync
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATA_SOURCE_ID: ${{ secrets.NOTION_DATA_SOURCE_ID }}
+        run: python scripts/sync_notion.py
