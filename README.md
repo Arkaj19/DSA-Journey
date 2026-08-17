@@ -7,27 +7,31 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-0-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-0-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-3-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-3-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
+| 🟡 Medium | 3 |
 
 ### Top topics
 
 | Topic | Count |
 |---|---|
+| Greedy | 3 |
 
-_Last synced: 2026-08-17 11:40 UTC_
+_Last synced: 2026-08-17 17:14 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
-_Nothing synced yet._
+- [Gas Station](solutions/Medium/003-gas-station.md) — 🟡 Medium · LeetCode · _added 2026-08-17_
+- [Task Scheduler](solutions/Medium/002-task-scheduler.md) — 🟡 Medium · LeetCode · _added 2026-08-17_
+- [Non-Overlapping Intervals](solutions/Medium/001-non-overlapping-intervals.md) — 🟡 Medium · LeetCode · _added 2026-08-17_
 <!-- RECENT:END -->
 
 ## 📂 Structure
