@@ -35,6 +35,18 @@
       "solved_on": "2026-03-12T02:16:00.000Z",
       "path": "solutions/Medium/003-gas-station.md",
       "uploaded_at": "2026-08-17T17:14:59.120956+00:00"
+    },
+    {
+      "page_id": "3215d928-0c0d-8004-8eb9-f27c0cd94a5f",
+      "question": "Car Pooling",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Greedy"
+      ],
+      "solved_on": "2026-03-12T02:16:00.000Z",
+      "path": "solutions/Medium/004-car-pooling.md",
+      "uploaded_at": "2026-08-18T14:59:54.335930+00:00"
     }
   ]
 }
