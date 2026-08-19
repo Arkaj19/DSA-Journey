@@ -47,6 +47,42 @@
       "solved_on": "2026-03-12T02:16:00.000Z",
       "path": "solutions/Medium/004-car-pooling.md",
       "uploaded_at": "2026-08-18T14:59:54.335930+00:00"
+    },
+    {
+      "page_id": "3215d928-0c0d-8075-902c-d9d9086e7c95",
+      "question": "Candy Two Pass ( O(n) Space )",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "topics": [
+        "Greedy"
+      ],
+      "solved_on": "2026-03-12T02:17:00.000Z",
+      "path": "solutions/Hard/005-candy-two-pass-o-n-space.md",
+      "uploaded_at": "2026-08-19T14:59:47.673736+00:00"
+    },
+    {
+      "page_id": "3215d928-0c0d-802f-923b-de9289a9493c",
+      "question": "Candy One Pass ( O(1) Space )",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "topics": [
+        "Greedy"
+      ],
+      "solved_on": "2026-03-12T02:17:00.000Z",
+      "path": "solutions/Hard/006-candy-one-pass-o-1-space.md",
+      "uploaded_at": "2026-08-19T14:59:48.127330+00:00"
+    },
+    {
+      "page_id": "3245d928-0c0d-805f-9f74-ea24828b5f38",
+      "question": "Fibonacci Series",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-03-15T17:58:00.000Z",
+      "path": "solutions/Easy/007-fibonacci-series.md",
+      "uploaded_at": "2026-08-19T14:59:48.482279+00:00"
     }
   ]
 }
