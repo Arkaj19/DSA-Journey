@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-7-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-4-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-10-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-5-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 4 |
+| 🟢 Easy | 3 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 2 |
 
 ### Top topics
@@ -23,15 +23,18 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Topic | Count |
 |---|---|
 | Greedy | 6 |
-| DP | 1 |
+| DP | 4 |
 
-_Last synced: 2026-08-19 14:59 UTC_
+_Last synced: 2026-08-20 10:21 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [House Robber](solutions/Medium/010-house-robber.md) — 🟡 Medium · LeetCode · _added 2026-08-20_
+- [Min Cost Climbing Stairs](solutions/Easy/009-min-cost-climbing-stairs.md) — 🟢 Easy · LeetCode · _added 2026-08-20_
+- [Climbing Stairs](solutions/Easy/008-climbing-stairs.md) — 🟢 Easy · LeetCode · _added 2026-08-20_
 - [Fibonacci Series](solutions/Easy/007-fibonacci-series.md) — 🟢 Easy · LeetCode · _added 2026-08-19_
 - [Candy One Pass ( O(1) Space )](solutions/Hard/006-candy-one-pass-o-1-space.md) — 🔴 Hard · LeetCode · _added 2026-08-19_
 - [Candy Two Pass ( O(n) Space )](solutions/Hard/005-candy-two-pass-o-n-space.md) — 🔴 Hard · LeetCode · _added 2026-08-19_

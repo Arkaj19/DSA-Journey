@@ -83,6 +83,42 @@
       "solved_on": "2026-03-15T17:58:00.000Z",
       "path": "solutions/Easy/007-fibonacci-series.md",
       "uploaded_at": "2026-08-19T14:59:48.482279+00:00"
+    },
+    {
+      "page_id": "32b5d928-0c0d-802f-ba4c-d9c4889bff0a",
+      "question": "Climbing Stairs",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-03-22T10:25:00.000Z",
+      "path": "solutions/Easy/008-climbing-stairs.md",
+      "uploaded_at": "2026-08-20T10:21:45.396191+00:00"
+    },
+    {
+      "page_id": "32b5d928-0c0d-80a7-856c-c12da2f0d4ca",
+      "question": "Min Cost Climbing Stairs",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-03-22T18:21:00.000Z",
+      "path": "solutions/Easy/009-min-cost-climbing-stairs.md",
+      "uploaded_at": "2026-08-20T10:21:45.903457+00:00"
+    },
+    {
+      "page_id": "32b5d928-0c0d-80ef-98e7-d305e7f0f44f",
+      "question": "House Robber",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-03-22T20:18:00.000Z",
+      "path": "solutions/Medium/010-house-robber.md",
+      "uploaded_at": "2026-08-20T10:21:46.339782+00:00"
     }
   ]
 }
