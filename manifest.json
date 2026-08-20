@@ -119,6 +119,18 @@
       "solved_on": "2026-03-22T20:18:00.000Z",
       "path": "solutions/Medium/010-house-robber.md",
       "uploaded_at": "2026-08-20T10:21:46.339782+00:00"
+    },
+    {
+      "page_id": "32c5d928-0c0d-80fa-a903-f9db5432c3e3",
+      "question": "House Robber 2 ",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-03-23T08:52:00.000Z",
+      "path": "solutions/Medium/011-house-robber-2.md",
+      "uploaded_at": "2026-08-20T15:02:50.514364+00:00"
     }
   ]
 }
