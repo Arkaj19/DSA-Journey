@@ -470,8 +470,12 @@ def main():
 
     titles = ", ".join(q for _, q in written)
     commit_msg = f"Add {len(written)} solution(s): {titles}"
-    run(["git", "-c", "user.name=github-actions[bot]",
-         "-c", "user.email=github-actions[bot]@users.noreply.github.com",
+    git_user_name = os.environ.get("GIT_USER_NAME", "github-actions[bot]")
+    git_user_email = os.environ.get(
+        "GIT_USER_EMAIL", "github-actions[bot]@users.noreply.github.com"
+    )
+    run(["git", f"-c", f"user.name={git_user_name}",
+         "-c", f"user.email={git_user_email}",
          "commit", "-m", commit_msg])
     run(["git", "push"])
 

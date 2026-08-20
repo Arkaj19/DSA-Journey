@@ -27,6 +27,19 @@ In your GitHub repo: **Settings → Secrets and variables → Actions → New re
 |---|---|
 | `NOTION_TOKEN` | the integration token from step 1 |
 | `NOTION_DATA_SOURCE_ID` | `a196d510-9535-4a3c-b8b9-588bfa7ab310` |
+| `GIT_USER_NAME` | your GitHub username, e.g. `arkajyoti-k` |
+| `GIT_USER_EMAIL` | your commit email — see below ⬇️ |
+
+**⚠️ This part matters for the streak to actually count.** GitHub only credits a
+commit to your contribution graph if the commit's author email matches a
+verified email on *your* account. If you skip `GIT_USER_EMAIL`, commits fall
+back to the `github-actions[bot]` identity and **won't show up on your graph
+at all** — the repo will still fill up, just invisibly to your profile.
+
+To get the right email:
+1. GitHub → **Settings → Emails**
+2. If "Keep my email addresses private" is on, use the `xxxxxxx+username@users.noreply.github.com` address shown there (this keeps your real email off public commits, which is the recommended option)
+3. Otherwise use whatever email is listed as verified
 
 ## 4. Allow Actions to push commits
 
@@ -57,10 +70,21 @@ Check that:
 - 1-3 new files appeared under `solutions/<Difficulty>/`
 - `README.md` stats updated
 - The corresponding question(s) in Notion now have **Uploaded to GitHub** checked
+- The commit on GitHub shows **your** name/avatar as author, not `github-actions[bot]`
+  (if it shows the bot, double check `GIT_USER_EMAIL` matches a verified email on your account)
 
 If all that looks right, you're done — it'll run daily on its own from here,
 working through your 113-question backlog first (oldest solved first) and
 then keeping pace with whatever you log going forward.
+
+## One more thing for the streak to count
+
+- Your repo needs to be **public** — or if private, go to your GitHub profile →
+  **Settings → Profile → Contributions** and enable "Include private contributions
+  on my profile" (this shows the activity as green squares without exposing repo
+  content).
+- The commit needs to land on your repo's **default branch** (usually `main`) —
+  don't change the workflow to push to a different branch.
 
 ## Notes
 
