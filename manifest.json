@@ -131,6 +131,42 @@
       "solved_on": "2026-03-23T08:52:00.000Z",
       "path": "solutions/Medium/011-house-robber-2.md",
       "uploaded_at": "2026-08-20T15:02:50.514364+00:00"
+    },
+    {
+      "page_id": "32d5d928-0c0d-802c-90ad-cd9a78ce1f53",
+      "question": "Coin Change",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-03-24T09:33:00.000Z",
+      "path": "solutions/Medium/012-coin-change.md",
+      "uploaded_at": "2026-08-21T15:01:30.904986+00:00"
+    },
+    {
+      "page_id": "32e5d928-0c0d-804b-968f-df0c315dc819",
+      "question": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-03-25T09:43:00.000Z",
+      "path": "solutions/Medium/013-palindromic-substrings.md",
+      "uploaded_at": "2026-08-21T15:01:31.479144+00:00"
+    },
+    {
+      "page_id": "3355d928-0c0d-806a-8008-deb09ddadf5e",
+      "question": "Longest Palindromic Substrings",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-01T06:10:00.000Z",
+      "path": "solutions/Medium/014-longest-palindromic-substrings.md",
+      "uploaded_at": "2026-08-21T15:01:32.162481+00:00"
     }
   ]
 }

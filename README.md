@@ -7,31 +7,34 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-11-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-6-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-14-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-9-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 3 |
-| 🟡 Medium | 6 |
+| 🟡 Medium | 9 |
 | 🔴 Hard | 2 |
 
 ### Top topics
 
 | Topic | Count |
 |---|---|
+| DP | 8 |
 | Greedy | 6 |
-| DP | 5 |
 
-_Last synced: 2026-08-20 15:02 UTC_
+_Last synced: 2026-08-21 15:01 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Longest Palindromic Substrings](solutions/Medium/014-longest-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
+- [Palindromic Substrings](solutions/Medium/013-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
+- [Coin Change](solutions/Medium/012-coin-change.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
 - [House Robber 2 ](solutions/Medium/011-house-robber-2.md) — 🟡 Medium · LeetCode · _added 2026-08-20_
 - [House Robber](solutions/Medium/010-house-robber.md) — 🟡 Medium · LeetCode · _added 2026-08-20_
 - [Min Cost Climbing Stairs](solutions/Easy/009-min-cost-climbing-stairs.md) — 🟢 Easy · LeetCode · _added 2026-08-20_
