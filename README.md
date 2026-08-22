@@ -7,31 +7,35 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-14-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-9-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-17-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-12-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 3 |
-| 🟡 Medium | 9 |
+| 🟡 Medium | 12 |
 | 🔴 Hard | 2 |
 
 ### Top topics
 
 | Topic | Count |
 |---|---|
-| DP | 8 |
+| DP | 11 |
 | Greedy | 6 |
 
-_Last synced: 2026-08-21 15:01 UTC_
+_Last synced: 2026-08-22 14:45 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Maximum Product Subarray](solutions/Medium/017-maximum-product-subarray.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
+- [Maximum Subarray ](solutions/Medium/016-maximum-subarray.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
+- [Decode Ways
+](solutions/Medium/015-decode-ways.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
 - [Longest Palindromic Substrings](solutions/Medium/014-longest-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
 - [Palindromic Substrings](solutions/Medium/013-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
 - [Coin Change](solutions/Medium/012-coin-change.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
@@ -44,8 +48,6 @@ _Last synced: 2026-08-21 15:01 UTC_
 - [Candy Two Pass ( O(n) Space )](solutions/Hard/005-candy-two-pass-o-n-space.md) — 🔴 Hard · LeetCode · _added 2026-08-19_
 - [Car Pooling](solutions/Medium/004-car-pooling.md) — 🟡 Medium · LeetCode · _added 2026-08-18_
 - [Gas Station](solutions/Medium/003-gas-station.md) — 🟡 Medium · LeetCode · _added 2026-08-17_
-- [Task Scheduler](solutions/Medium/002-task-scheduler.md) — 🟡 Medium · LeetCode · _added 2026-08-17_
-- [Non-Overlapping Intervals](solutions/Medium/001-non-overlapping-intervals.md) — 🟡 Medium · LeetCode · _added 2026-08-17_
 <!-- RECENT:END -->
 
 ## 📂 Structure

@@ -167,6 +167,42 @@
       "solved_on": "2026-04-01T06:10:00.000Z",
       "path": "solutions/Medium/014-longest-palindromic-substrings.md",
       "uploaded_at": "2026-08-21T15:01:32.162481+00:00"
+    },
+    {
+      "page_id": "3355d928-0c0d-8097-97b8-cc6d8e500180",
+      "question": "Decode Ways\n",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-01T07:06:00.000Z",
+      "path": "solutions/Medium/015-decode-ways.md",
+      "uploaded_at": "2026-08-22T14:45:06.564302+00:00"
+    },
+    {
+      "page_id": "3365d928-0c0d-80d0-9f4e-e96e54a28d9e",
+      "question": "Maximum Subarray ",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-02T09:42:00.000Z",
+      "path": "solutions/Medium/016-maximum-subarray.md",
+      "uploaded_at": "2026-08-22T14:45:07.155843+00:00"
+    },
+    {
+      "page_id": "3375d928-0c0d-8000-998b-f95ea71b4453",
+      "question": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-03T07:00:00.000Z",
+      "path": "solutions/Medium/017-maximum-product-subarray.md",
+      "uploaded_at": "2026-08-22T14:45:07.731991+00:00"
     }
   ]
 }
