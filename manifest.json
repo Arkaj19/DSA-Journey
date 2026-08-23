@@ -203,6 +203,42 @@
       "solved_on": "2026-04-03T07:00:00.000Z",
       "path": "solutions/Medium/017-maximum-product-subarray.md",
       "uploaded_at": "2026-08-22T14:45:07.731991+00:00"
+    },
+    {
+      "page_id": "3375d928-0c0d-8069-aee5-e0f7b5d08006",
+      "question": "Word Break",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-03T09:58:00.000Z",
+      "path": "solutions/Medium/018-word-break.md",
+      "uploaded_at": "2026-08-23T14:46:45.866752+00:00"
+    },
+    {
+      "page_id": "33a5d928-0c0d-8072-9c04-f60afeb1cc35",
+      "question": "Longest Increasing Subsequence ",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-06T06:18:00.000Z",
+      "path": "solutions/Medium/019-longest-increasing-subsequence.md",
+      "uploaded_at": "2026-08-23T14:46:46.137347+00:00"
+    },
+    {
+      "page_id": "33a5d928-0c0d-8069-bd57-e78c6d63d5b5",
+      "question": "Partition Equal Subset Sum",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-06T11:19:00.000Z",
+      "path": "solutions/Medium/020-partition-equal-subset-sum.md",
+      "uploaded_at": "2026-08-23T14:46:46.529279+00:00"
     }
   ]
 }

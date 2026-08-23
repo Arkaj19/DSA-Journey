@@ -7,31 +7,34 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-17-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-12-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-20-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 3 |
-| 🟡 Medium | 12 |
+| 🟡 Medium | 15 |
 | 🔴 Hard | 2 |
 
 ### Top topics
 
 | Topic | Count |
 |---|---|
-| DP | 11 |
+| DP | 14 |
 | Greedy | 6 |
 
-_Last synced: 2026-08-22 14:45 UTC_
+_Last synced: 2026-08-23 14:46 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Partition Equal Subset Sum](solutions/Medium/020-partition-equal-subset-sum.md) — 🟡 Medium · LeetCode · _added 2026-08-23_
+- [Longest Increasing Subsequence ](solutions/Medium/019-longest-increasing-subsequence.md) — 🟡 Medium · LeetCode · _added 2026-08-23_
+- [Word Break](solutions/Medium/018-word-break.md) — 🟡 Medium · LeetCode · _added 2026-08-23_
 - [Maximum Product Subarray](solutions/Medium/017-maximum-product-subarray.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
 - [Maximum Subarray ](solutions/Medium/016-maximum-subarray.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
 - [Decode Ways
@@ -45,9 +48,6 @@ _Last synced: 2026-08-22 14:45 UTC_
 - [Climbing Stairs](solutions/Easy/008-climbing-stairs.md) — 🟢 Easy · LeetCode · _added 2026-08-20_
 - [Fibonacci Series](solutions/Easy/007-fibonacci-series.md) — 🟢 Easy · LeetCode · _added 2026-08-19_
 - [Candy One Pass ( O(1) Space )](solutions/Hard/006-candy-one-pass-o-1-space.md) — 🔴 Hard · LeetCode · _added 2026-08-19_
-- [Candy Two Pass ( O(n) Space )](solutions/Hard/005-candy-two-pass-o-n-space.md) — 🔴 Hard · LeetCode · _added 2026-08-19_
-- [Car Pooling](solutions/Medium/004-car-pooling.md) — 🟡 Medium · LeetCode · _added 2026-08-18_
-- [Gas Station](solutions/Medium/003-gas-station.md) — 🟡 Medium · LeetCode · _added 2026-08-17_
 <!-- RECENT:END -->
 
 ## 📂 Structure
