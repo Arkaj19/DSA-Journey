@@ -251,6 +251,42 @@
       "solved_on": "2026-04-07T04:24:00.000Z",
       "path": "solutions/Medium/021-coin-change-2.md",
       "uploaded_at": "2026-08-24T15:08:04.290706+00:00"
+    },
+    {
+      "page_id": "33b5d928-0c0d-8030-99ac-fb7064f43a38",
+      "question": "unique paths",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "DP"
+      ],
+      "solved_on": "2026-04-07T06:03:00.000Z",
+      "path": "solutions/Medium/022-unique-paths.md",
+      "uploaded_at": "2026-08-25T15:12:19.473646+00:00"
+    },
+    {
+      "page_id": "33f5d928-0c0d-8079-93d5-cb787b388d66",
+      "question": "Find if Path Exists in Graph",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Graphs"
+      ],
+      "solved_on": "2026-04-11T20:41:00.000Z",
+      "path": "solutions/Easy/023-find-if-path-exists-in-graph.md",
+      "uploaded_at": "2026-08-25T15:12:20.999821+00:00"
+    },
+    {
+      "page_id": "3415d928-0c0d-8079-a587-c6e7863f13fb",
+      "question": "All paths from source to target",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Graphs"
+      ],
+      "solved_on": "2026-04-13T07:39:00.000Z",
+      "path": "solutions/Medium/024-all-paths-from-source-to-target.md",
+      "uploaded_at": "2026-08-25T15:12:21.535463+00:00"
     }
   ]
 }
