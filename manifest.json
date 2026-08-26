@@ -287,6 +287,42 @@
       "solved_on": "2026-04-13T07:39:00.000Z",
       "path": "solutions/Medium/024-all-paths-from-source-to-target.md",
       "uploaded_at": "2026-08-25T15:12:21.535463+00:00"
+    },
+    {
+      "page_id": "3415d928-0c0d-8078-84e6-f31356a5af97",
+      "question": "Detect cycle in undirected Connected Graph",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Graphs"
+      ],
+      "solved_on": "2026-04-13T11:16:00.000Z",
+      "path": "solutions/Medium/025-detect-cycle-in-undirected-connected-graph.md",
+      "uploaded_at": "2026-08-26T15:57:38.319876+00:00"
+    },
+    {
+      "page_id": "3425d928-0c0d-80b6-9e6b-e75a4e104890",
+      "question": "Topological Sort",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Graphs"
+      ],
+      "solved_on": "2026-04-14T09:52:00.000Z",
+      "path": "solutions/Medium/026-topological-sort.md",
+      "uploaded_at": "2026-08-26T15:57:38.625176+00:00"
+    },
+    {
+      "page_id": "3425d928-0c0d-80d5-955a-d27b26408a89",
+      "question": "Valid Palindrome 2",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Strings"
+      ],
+      "solved_on": "2026-04-14T10:09:00.000Z",
+      "path": "solutions/Easy/027-valid-palindrome-2.md",
+      "uploaded_at": "2026-08-26T15:57:39.271193+00:00"
     }
   ]
 }

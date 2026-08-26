@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-24-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-4-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-18-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-27-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 4 |
-| 🟡 Medium | 18 |
+| 🟢 Easy | 5 |
+| 🟡 Medium | 20 |
 | 🔴 Hard | 2 |
 
 ### Top topics
@@ -24,15 +24,19 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 |---|---|
 | DP | 16 |
 | Greedy | 6 |
-| Graphs | 2 |
+| Graphs | 4 |
+| Strings | 1 |
 
-_Last synced: 2026-08-25 15:12 UTC_
+_Last synced: 2026-08-26 15:57 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Valid Palindrome 2](solutions/Easy/027-valid-palindrome-2.md) — 🟢 Easy · LeetCode · _added 2026-08-26_
+- [Topological Sort](solutions/Medium/026-topological-sort.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
+- [Detect cycle in undirected Connected Graph](solutions/Medium/025-detect-cycle-in-undirected-connected-graph.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
 - [All paths from source to target](solutions/Medium/024-all-paths-from-source-to-target.md) — 🟡 Medium · LeetCode · _added 2026-08-25_
 - [Find if Path Exists in Graph](solutions/Easy/023-find-if-path-exists-in-graph.md) — 🟢 Easy · LeetCode · _added 2026-08-25_
 - [unique paths](solutions/Medium/022-unique-paths.md) — 🟡 Medium · LeetCode · _added 2026-08-25_
@@ -46,9 +50,6 @@ _Last synced: 2026-08-25 15:12 UTC_
 ](solutions/Medium/015-decode-ways.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
 - [Longest Palindromic Substrings](solutions/Medium/014-longest-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
 - [Palindromic Substrings](solutions/Medium/013-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
-- [Coin Change](solutions/Medium/012-coin-change.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
-- [House Robber 2 ](solutions/Medium/011-house-robber-2.md) — 🟡 Medium · LeetCode · _added 2026-08-20_
-- [House Robber](solutions/Medium/010-house-robber.md) — 🟡 Medium · LeetCode · _added 2026-08-20_
 <!-- RECENT:END -->
 
 ## 📂 Structure
