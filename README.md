@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-27-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-29-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-22-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 5 |
-| 🟡 Medium | 20 |
+| 🟡 Medium | 22 |
 | 🔴 Hard | 2 |
 
 ### Top topics
@@ -24,16 +24,18 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 |---|---|
 | DP | 16 |
 | Greedy | 6 |
-| Graphs | 4 |
+| Graphs | 6 |
 | Strings | 1 |
 
-_Last synced: 2026-08-26 15:57 UTC_
+_Last synced: 2026-08-27 23:50 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Shortest Path in Undirected Graph](solutions/Medium/029-shortest-path-in-undirected-graph.md) — 🟡 Medium · GFG · _added 2026-08-27_
+- [Kahn’s Algo](solutions/Medium/028-kahn-s-algo.md) — 🟡 Medium · GFG · _added 2026-08-27_
 - [Valid Palindrome 2](solutions/Easy/027-valid-palindrome-2.md) — 🟢 Easy · LeetCode · _added 2026-08-26_
 - [Topological Sort](solutions/Medium/026-topological-sort.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
 - [Detect cycle in undirected Connected Graph](solutions/Medium/025-detect-cycle-in-undirected-connected-graph.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
@@ -48,8 +50,6 @@ _Last synced: 2026-08-26 15:57 UTC_
 - [Maximum Subarray ](solutions/Medium/016-maximum-subarray.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
 - [Decode Ways
 ](solutions/Medium/015-decode-ways.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
-- [Longest Palindromic Substrings](solutions/Medium/014-longest-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
-- [Palindromic Substrings](solutions/Medium/013-palindromic-substrings.md) — 🟡 Medium · LeetCode · _added 2026-08-21_
 <!-- RECENT:END -->
 
 ## 📂 Structure

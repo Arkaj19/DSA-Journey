@@ -323,6 +323,30 @@
       "solved_on": "2026-04-14T10:09:00.000Z",
       "path": "solutions/Easy/027-valid-palindrome-2.md",
       "uploaded_at": "2026-08-26T15:57:39.271193+00:00"
+    },
+    {
+      "page_id": "3435d928-0c0d-8048-b9e8-f108e4bb3d78",
+      "question": "Kahn\u2019s Algo",
+      "difficulty": "Medium",
+      "platform": "GFG",
+      "topics": [
+        "Graphs"
+      ],
+      "solved_on": "2026-04-15T11:33:00.000Z",
+      "path": "solutions/Medium/028-kahn-s-algo.md",
+      "uploaded_at": "2026-08-27T23:50:40.917064+00:00"
+    },
+    {
+      "page_id": "3435d928-0c0d-80a4-8f18-e3d1b10d2d3f",
+      "question": "Shortest Path in Undirected Graph",
+      "difficulty": "Medium",
+      "platform": "GFG",
+      "topics": [
+        "Graphs"
+      ],
+      "solved_on": "2026-04-15T11:37:00.000Z",
+      "path": "solutions/Medium/029-shortest-path-in-undirected-graph.md",
+      "uploaded_at": "2026-08-27T23:50:41.507267+00:00"
     }
   ]
 }
