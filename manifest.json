@@ -347,6 +347,32 @@
       "solved_on": "2026-04-15T11:37:00.000Z",
       "path": "solutions/Medium/029-shortest-path-in-undirected-graph.md",
       "uploaded_at": "2026-08-27T23:50:41.507267+00:00"
+    },
+    {
+      "page_id": "3445d928-0c0d-8045-a2b4-eff33c1a0541",
+      "question": "Closest Equal Element Queries",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Binary Search",
+        "Hashing"
+      ],
+      "solved_on": "2026-04-16T13:18:00.000Z",
+      "path": "solutions/Medium/030-closest-equal-element-queries.md",
+      "uploaded_at": "2026-08-28T23:35:49.110627+00:00"
+    },
+    {
+      "page_id": "3445d928-0c0d-805d-9379-ed96b446b170",
+      "question": "Shortest Distance to Target String in a Circular Array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays"
+      ],
+      "solved_on": "2026-04-16T13:32:00.000Z",
+      "path": "solutions/Easy/031-shortest-distance-to-target-string-in-a-circular-array.md",
+      "uploaded_at": "2026-08-28T23:35:49.514657+00:00"
     }
   ]
 }

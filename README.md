@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-29-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-22-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-31-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-6-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-23-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 5 |
-| 🟡 Medium | 22 |
+| 🟢 Easy | 6 |
+| 🟡 Medium | 23 |
 | 🔴 Hard | 2 |
 
 ### Top topics
@@ -25,15 +25,20 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | DP | 16 |
 | Greedy | 6 |
 | Graphs | 6 |
+| Arrays | 2 |
 | Strings | 1 |
+| Binary Search | 1 |
+| Hashing | 1 |
 
-_Last synced: 2026-08-27 23:50 UTC_
+_Last synced: 2026-08-28 23:35 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Shortest Distance to Target String in a Circular Array](solutions/Easy/031-shortest-distance-to-target-string-in-a-circular-array.md) — 🟢 Easy · LeetCode · _added 2026-08-28_
+- [Closest Equal Element Queries](solutions/Medium/030-closest-equal-element-queries.md) — 🟡 Medium · LeetCode · _added 2026-08-28_
 - [Shortest Path in Undirected Graph](solutions/Medium/029-shortest-path-in-undirected-graph.md) — 🟡 Medium · GFG · _added 2026-08-27_
 - [Kahn’s Algo](solutions/Medium/028-kahn-s-algo.md) — 🟡 Medium · GFG · _added 2026-08-27_
 - [Valid Palindrome 2](solutions/Easy/027-valid-palindrome-2.md) — 🟢 Easy · LeetCode · _added 2026-08-26_
@@ -47,9 +52,6 @@ _Last synced: 2026-08-27 23:50 UTC_
 - [Longest Increasing Subsequence ](solutions/Medium/019-longest-increasing-subsequence.md) — 🟡 Medium · LeetCode · _added 2026-08-23_
 - [Word Break](solutions/Medium/018-word-break.md) — 🟡 Medium · LeetCode · _added 2026-08-23_
 - [Maximum Product Subarray](solutions/Medium/017-maximum-product-subarray.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
-- [Maximum Subarray ](solutions/Medium/016-maximum-subarray.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
-- [Decode Ways
-](solutions/Medium/015-decode-ways.md) — 🟡 Medium · LeetCode · _added 2026-08-22_
 <!-- RECENT:END -->
 
 ## 📂 Structure
