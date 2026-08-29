@@ -373,6 +373,30 @@
       "solved_on": "2026-04-16T13:32:00.000Z",
       "path": "solutions/Easy/031-shortest-distance-to-target-string-in-a-circular-array.md",
       "uploaded_at": "2026-08-28T23:35:49.514657+00:00"
+    },
+    {
+      "page_id": "3455d928-0c0d-8040-adc5-e6c4180c4cfb",
+      "question": "Minimum Absolute Distance Between Mirror Pairs",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays"
+      ],
+      "solved_on": "2026-04-17T05:16:00.000Z",
+      "path": "solutions/Medium/032-minimum-absolute-distance-between-mirror-pairs.md",
+      "uploaded_at": "2026-08-29T17:45:35.817940+00:00"
+    },
+    {
+      "page_id": "3455d928-0c0d-809b-bea0-fdf99c0f6f71",
+      "question": "Anagram Palindrome",
+      "difficulty": "Easy",
+      "platform": "GFG",
+      "topics": [
+        "Arrays"
+      ],
+      "solved_on": "2026-04-17T06:42:00.000Z",
+      "path": "solutions/Easy/033-anagram-palindrome.md",
+      "uploaded_at": "2026-08-29T17:45:36.231007+00:00"
     }
   ]
 }
