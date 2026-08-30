@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-33-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-7-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-24-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-36-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-8-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-26-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 7 |
-| 🟡 Medium | 24 |
+| 🟢 Easy | 8 |
+| 🟡 Medium | 26 |
 | 🔴 Hard | 2 |
 
 ### Top topics
@@ -25,18 +25,22 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | DP | 16 |
 | Greedy | 6 |
 | Graphs | 6 |
-| Arrays | 4 |
-| Strings | 1 |
+| Arrays | 5 |
+| Strings | 3 |
+| Two Pointers | 2 |
 | Binary Search | 1 |
 | Hashing | 1 |
 
-_Last synced: 2026-08-29 17:45 UTC_
+_Last synced: 2026-08-30 18:06 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Maximum distance between a pair of values](solutions/Medium/036-maximum-distance-between-a-pair-of-values.md) — 🟡 Medium · LeetCode · _added 2026-08-30_
+- [Mirror Distance of an Integer](solutions/Easy/035-mirror-distance-of-an-integer.md) — 🟢 Easy · LeetCode · _added 2026-08-30_
+- [Valid Word Abbreviation](solutions/Medium/034-valid-word-abbreviation.md) — 🟡 Medium · NeetCode · _added 2026-08-30_
 - [Anagram Palindrome](solutions/Easy/033-anagram-palindrome.md) — 🟢 Easy · GFG · _added 2026-08-29_
 - [Minimum Absolute Distance Between Mirror Pairs](solutions/Medium/032-minimum-absolute-distance-between-mirror-pairs.md) — 🟡 Medium · LeetCode · _added 2026-08-29_
 - [Shortest Distance to Target String in a Circular Array](solutions/Easy/031-shortest-distance-to-target-string-in-a-circular-array.md) — 🟢 Easy · LeetCode · _added 2026-08-28_
@@ -49,9 +53,6 @@ _Last synced: 2026-08-29 17:45 UTC_
 - [All paths from source to target](solutions/Medium/024-all-paths-from-source-to-target.md) — 🟡 Medium · LeetCode · _added 2026-08-25_
 - [Find if Path Exists in Graph](solutions/Easy/023-find-if-path-exists-in-graph.md) — 🟢 Easy · LeetCode · _added 2026-08-25_
 - [unique paths](solutions/Medium/022-unique-paths.md) — 🟡 Medium · LeetCode · _added 2026-08-25_
-- [Coin Change 2](solutions/Medium/021-coin-change-2.md) — 🟡 Medium · LeetCode · _added 2026-08-24_
-- [Partition Equal Subset Sum](solutions/Medium/020-partition-equal-subset-sum.md) — 🟡 Medium · LeetCode · _added 2026-08-23_
-- [Longest Increasing Subsequence ](solutions/Medium/019-longest-increasing-subsequence.md) — 🟡 Medium · LeetCode · _added 2026-08-23_
 <!-- RECENT:END -->
 
 ## 📂 Structure

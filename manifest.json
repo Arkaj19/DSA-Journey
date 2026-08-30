@@ -397,6 +397,44 @@
       "solved_on": "2026-04-17T06:42:00.000Z",
       "path": "solutions/Easy/033-anagram-palindrome.md",
       "uploaded_at": "2026-08-29T17:45:36.231007+00:00"
+    },
+    {
+      "page_id": "3455d928-0c0d-8079-9111-de6075521d50",
+      "question": "Valid Word Abbreviation",
+      "difficulty": "Medium",
+      "platform": "NeetCode",
+      "topics": [
+        "Strings",
+        "Two Pointers"
+      ],
+      "solved_on": "2026-04-17T07:06:00.000Z",
+      "path": "solutions/Medium/034-valid-word-abbreviation.md",
+      "uploaded_at": "2026-08-30T18:06:36.032495+00:00"
+    },
+    {
+      "page_id": "3465d928-0c0d-80cc-b2c7-d339f844aef9",
+      "question": "Mirror Distance of an Integer",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Strings"
+      ],
+      "solved_on": "2026-04-18T17:31:00.000Z",
+      "path": "solutions/Easy/035-mirror-distance-of-an-integer.md",
+      "uploaded_at": "2026-08-30T18:06:36.565846+00:00"
+    },
+    {
+      "page_id": "3475d928-0c0d-80c4-a38c-c58921f488fa",
+      "question": "Maximum distance between a pair of values",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Two Pointers",
+        "Arrays"
+      ],
+      "solved_on": "2026-04-19T09:04:00.000Z",
+      "path": "solutions/Medium/036-maximum-distance-between-a-pair-of-values.md",
+      "uploaded_at": "2026-08-30T18:06:37.670725+00:00"
     }
   ]
 }
