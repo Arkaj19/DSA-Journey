@@ -7,7 +7,7 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-36-blue?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-37-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-8-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-26-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
@@ -17,6 +17,7 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | 🟢 Easy | 8 |
 | 🟡 Medium | 26 |
 | 🔴 Hard | 2 |
+| ⚪ Unsorted | 1 |
 
 ### Top topics
 
@@ -31,13 +32,14 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Binary Search | 1 |
 | Hashing | 1 |
 
-_Last synced: 2026-08-30 18:06 UTC_
+_Last synced: 2026-08-31 20:14 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Untitled](solutions/Unsorted/037-untitled.md) — ⚪ Unsorted · Other · _added 2026-08-31_
 - [Maximum distance between a pair of values](solutions/Medium/036-maximum-distance-between-a-pair-of-values.md) — 🟡 Medium · LeetCode · _added 2026-08-30_
 - [Mirror Distance of an Integer](solutions/Easy/035-mirror-distance-of-an-integer.md) — 🟢 Easy · LeetCode · _added 2026-08-30_
 - [Valid Word Abbreviation](solutions/Medium/034-valid-word-abbreviation.md) — 🟡 Medium · NeetCode · _added 2026-08-30_
@@ -52,7 +54,6 @@ _Last synced: 2026-08-30 18:06 UTC_
 - [Detect cycle in undirected Connected Graph](solutions/Medium/025-detect-cycle-in-undirected-connected-graph.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
 - [All paths from source to target](solutions/Medium/024-all-paths-from-source-to-target.md) — 🟡 Medium · LeetCode · _added 2026-08-25_
 - [Find if Path Exists in Graph](solutions/Easy/023-find-if-path-exists-in-graph.md) — 🟢 Easy · LeetCode · _added 2026-08-25_
-- [unique paths](solutions/Medium/022-unique-paths.md) — 🟡 Medium · LeetCode · _added 2026-08-25_
 <!-- RECENT:END -->
 
 ## 📂 Structure
