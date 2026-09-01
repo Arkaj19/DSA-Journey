@@ -445,6 +445,44 @@
       "solved_on": "2026-04-19T12:47:00.000Z",
       "path": "solutions/Unsorted/037-untitled.md",
       "uploaded_at": "2026-08-31T20:14:01.106645+00:00"
+    },
+    {
+      "page_id": "3485d928-0c0d-802a-a241-fc26a8939aa6",
+      "question": "Two Furthest Houses With Different Colors",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Greedy",
+        "Two Pointers"
+      ],
+      "solved_on": "2026-04-20T07:00:00.000Z",
+      "path": "solutions/Easy/038-two-furthest-houses-with-different-colors.md",
+      "uploaded_at": "2026-09-01T17:53:52.508009+00:00"
+    },
+    {
+      "page_id": "3485d928-0c0d-8000-b2e7-ca63a91b0b6e",
+      "question": "Frequency of the Most Frequent Element",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Two Pointers"
+      ],
+      "solved_on": "2026-04-20T07:14:00.000Z",
+      "path": "solutions/Medium/039-frequency-of-the-most-frequent-element.md",
+      "uploaded_at": "2026-09-01T17:53:52.941366+00:00"
+    },
+    {
+      "page_id": "3485d928-0c0d-8039-bf77-ccd1b09f56fc",
+      "question": "Fruits Into Baskets",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Sliding Window"
+      ],
+      "solved_on": "2026-04-20T10:22:00.000Z",
+      "path": "solutions/Medium/040-fruits-into-baskets.md",
+      "uploaded_at": "2026-09-01T17:53:53.371708+00:00"
     }
   ]
 }

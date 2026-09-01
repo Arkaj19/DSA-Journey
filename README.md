@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-37-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-8-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-26-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-40-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-9-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-28-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 8 |
-| 🟡 Medium | 26 |
+| 🟢 Easy | 9 |
+| 🟡 Medium | 28 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
 
@@ -24,21 +24,25 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Topic | Count |
 |---|---|
 | DP | 16 |
-| Greedy | 6 |
+| Greedy | 7 |
 | Graphs | 6 |
-| Arrays | 5 |
+| Arrays | 6 |
+| Two Pointers | 4 |
 | Strings | 3 |
-| Two Pointers | 2 |
 | Binary Search | 1 |
 | Hashing | 1 |
+| Sliding Window | 1 |
 
-_Last synced: 2026-08-31 20:14 UTC_
+_Last synced: 2026-09-01 17:53 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Fruits Into Baskets](solutions/Medium/040-fruits-into-baskets.md) — 🟡 Medium · LeetCode · _added 2026-09-01_
+- [Frequency of the Most Frequent Element](solutions/Medium/039-frequency-of-the-most-frequent-element.md) — 🟡 Medium · LeetCode · _added 2026-09-01_
+- [Two Furthest Houses With Different Colors](solutions/Easy/038-two-furthest-houses-with-different-colors.md) — 🟢 Easy · LeetCode · _added 2026-09-01_
 - [Untitled](solutions/Unsorted/037-untitled.md) — ⚪ Unsorted · Other · _added 2026-08-31_
 - [Maximum distance between a pair of values](solutions/Medium/036-maximum-distance-between-a-pair-of-values.md) — 🟡 Medium · LeetCode · _added 2026-08-30_
 - [Mirror Distance of an Integer](solutions/Easy/035-mirror-distance-of-an-integer.md) — 🟢 Easy · LeetCode · _added 2026-08-30_
@@ -51,9 +55,6 @@ _Last synced: 2026-08-31 20:14 UTC_
 - [Kahn’s Algo](solutions/Medium/028-kahn-s-algo.md) — 🟡 Medium · GFG · _added 2026-08-27_
 - [Valid Palindrome 2](solutions/Easy/027-valid-palindrome-2.md) — 🟢 Easy · LeetCode · _added 2026-08-26_
 - [Topological Sort](solutions/Medium/026-topological-sort.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
-- [Detect cycle in undirected Connected Graph](solutions/Medium/025-detect-cycle-in-undirected-connected-graph.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
-- [All paths from source to target](solutions/Medium/024-all-paths-from-source-to-target.md) — 🟡 Medium · LeetCode · _added 2026-08-25_
-- [Find if Path Exists in Graph](solutions/Easy/023-find-if-path-exists-in-graph.md) — 🟢 Easy · LeetCode · _added 2026-08-25_
 <!-- RECENT:END -->
 
 ## 📂 Structure
