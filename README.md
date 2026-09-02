@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-40-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-9-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-28-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-43-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-11-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-29-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 9 |
-| 🟡 Medium | 28 |
+| 🟢 Easy | 11 |
+| 🟡 Medium | 29 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
 
@@ -29,17 +29,21 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Arrays | 6 |
 | Two Pointers | 4 |
 | Strings | 3 |
-| Binary Search | 1 |
+| Binary Search | 2 |
+| Sliding Window | 2 |
 | Hashing | 1 |
-| Sliding Window | 1 |
+| Trees | 1 |
 
-_Last synced: 2026-09-01 17:53 UTC_
+_Last synced: 2026-09-02 17:57 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Maximum Depth of Binary Tree](solutions/Easy/043-maximum-depth-of-binary-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
+- [Maximum Number of Vowels in a Substring of Given Length](solutions/Medium/042-maximum-number-of-vowels-in-a-substring-of-given-length.md) — 🟡 Medium · LeetCode · _added 2026-09-02_
+- [Search Insert Position](solutions/Easy/041-search-insert-position.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
 - [Fruits Into Baskets](solutions/Medium/040-fruits-into-baskets.md) — 🟡 Medium · LeetCode · _added 2026-09-01_
 - [Frequency of the Most Frequent Element](solutions/Medium/039-frequency-of-the-most-frequent-element.md) — 🟡 Medium · LeetCode · _added 2026-09-01_
 - [Two Furthest Houses With Different Colors](solutions/Easy/038-two-furthest-houses-with-different-colors.md) — 🟢 Easy · LeetCode · _added 2026-09-01_
@@ -52,9 +56,6 @@ _Last synced: 2026-09-01 17:53 UTC_
 - [Shortest Distance to Target String in a Circular Array](solutions/Easy/031-shortest-distance-to-target-string-in-a-circular-array.md) — 🟢 Easy · LeetCode · _added 2026-08-28_
 - [Closest Equal Element Queries](solutions/Medium/030-closest-equal-element-queries.md) — 🟡 Medium · LeetCode · _added 2026-08-28_
 - [Shortest Path in Undirected Graph](solutions/Medium/029-shortest-path-in-undirected-graph.md) — 🟡 Medium · GFG · _added 2026-08-27_
-- [Kahn’s Algo](solutions/Medium/028-kahn-s-algo.md) — 🟡 Medium · GFG · _added 2026-08-27_
-- [Valid Palindrome 2](solutions/Easy/027-valid-palindrome-2.md) — 🟢 Easy · LeetCode · _added 2026-08-26_
-- [Topological Sort](solutions/Medium/026-topological-sort.md) — 🟡 Medium · LeetCode · _added 2026-08-26_
 <!-- RECENT:END -->
 
 ## 📂 Structure

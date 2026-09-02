@@ -483,6 +483,42 @@
       "solved_on": "2026-04-20T10:22:00.000Z",
       "path": "solutions/Medium/040-fruits-into-baskets.md",
       "uploaded_at": "2026-09-01T17:53:53.371708+00:00"
+    },
+    {
+      "page_id": "3495d928-0c0d-804a-9670-f8b6d0171a51",
+      "question": "Search Insert Position",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-04-21T07:36:00.000Z",
+      "path": "solutions/Easy/041-search-insert-position.md",
+      "uploaded_at": "2026-09-02T17:57:32.268997+00:00"
+    },
+    {
+      "page_id": "3495d928-0c0d-8054-ad5e-dcb76bde7ed8",
+      "question": "Maximum Number of Vowels in a Substring of Given Length",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Sliding Window"
+      ],
+      "solved_on": "2026-04-21T07:39:00.000Z",
+      "path": "solutions/Medium/042-maximum-number-of-vowels-in-a-substring-of-given-length.md",
+      "uploaded_at": "2026-09-02T17:57:32.816301+00:00"
+    },
+    {
+      "page_id": "3495d928-0c0d-805c-9e45-dbc67eb52b77",
+      "question": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Trees"
+      ],
+      "solved_on": "2026-04-21T10:57:00.000Z",
+      "path": "solutions/Easy/043-maximum-depth-of-binary-tree.md",
+      "uploaded_at": "2026-09-02T17:57:33.204972+00:00"
     }
   ]
 }
