@@ -519,6 +519,18 @@
       "solved_on": "2026-04-21T10:57:00.000Z",
       "path": "solutions/Easy/043-maximum-depth-of-binary-tree.md",
       "uploaded_at": "2026-09-02T17:57:33.204972+00:00"
+    },
+    {
+      "page_id": "3495d928-0c0d-8001-8d87-cab414864871",
+      "question": "Same Tree",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Trees"
+      ],
+      "solved_on": "2026-04-21T11:22:00.000Z",
+      "path": "solutions/Easy/044-same-tree.md",
+      "uploaded_at": "2026-09-03T17:55:53.235581+00:00"
     }
   ]
 }

@@ -7,14 +7,14 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-43-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-11-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-29-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-44-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-12-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-29-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 11 |
+| 🟢 Easy | 12 |
 | 🟡 Medium | 29 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
@@ -31,16 +31,17 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Strings | 3 |
 | Binary Search | 2 |
 | Sliding Window | 2 |
+| Trees | 2 |
 | Hashing | 1 |
-| Trees | 1 |
 
-_Last synced: 2026-09-02 17:57 UTC_
+_Last synced: 2026-09-03 17:55 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Same Tree](solutions/Easy/044-same-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-03_
 - [Maximum Depth of Binary Tree](solutions/Easy/043-maximum-depth-of-binary-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
 - [Maximum Number of Vowels in a Substring of Given Length](solutions/Medium/042-maximum-number-of-vowels-in-a-substring-of-given-length.md) — 🟡 Medium · LeetCode · _added 2026-09-02_
 - [Search Insert Position](solutions/Easy/041-search-insert-position.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
@@ -55,7 +56,6 @@ _Last synced: 2026-09-02 17:57 UTC_
 - [Minimum Absolute Distance Between Mirror Pairs](solutions/Medium/032-minimum-absolute-distance-between-mirror-pairs.md) — 🟡 Medium · LeetCode · _added 2026-08-29_
 - [Shortest Distance to Target String in a Circular Array](solutions/Easy/031-shortest-distance-to-target-string-in-a-circular-array.md) — 🟢 Easy · LeetCode · _added 2026-08-28_
 - [Closest Equal Element Queries](solutions/Medium/030-closest-equal-element-queries.md) — 🟡 Medium · LeetCode · _added 2026-08-28_
-- [Shortest Path in Undirected Graph](solutions/Medium/029-shortest-path-in-undirected-graph.md) — 🟡 Medium · GFG · _added 2026-08-27_
 <!-- RECENT:END -->
 
 ## 📂 Structure
