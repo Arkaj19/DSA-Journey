@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-44-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-12-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-29-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-47-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-14-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-30-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 12 |
-| 🟡 Medium | 29 |
+| 🟢 Easy | 14 |
+| 🟡 Medium | 30 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
 
@@ -27,20 +27,23 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Greedy | 7 |
 | Graphs | 6 |
 | Arrays | 6 |
+| Strings | 5 |
 | Two Pointers | 4 |
-| Strings | 3 |
+| Trees | 3 |
 | Binary Search | 2 |
 | Sliding Window | 2 |
-| Trees | 2 |
 | Hashing | 1 |
 
-_Last synced: 2026-09-03 17:55 UTC_
+_Last synced: 2026-09-04 17:41 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Lowest Common Ancestor Of a Binary Tree](solutions/Medium/047-lowest-common-ancestor-of-a-binary-tree.md) — 🟡 Medium · LeetCode · _added 2026-09-04_
+- [Words Within Two Edits of Dictionary](solutions/Easy/046-words-within-two-edits-of-dictionary.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
+- [Detect Capital ](solutions/Easy/045-detect-capital.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
 - [Same Tree](solutions/Easy/044-same-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-03_
 - [Maximum Depth of Binary Tree](solutions/Easy/043-maximum-depth-of-binary-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
 - [Maximum Number of Vowels in a Substring of Given Length](solutions/Medium/042-maximum-number-of-vowels-in-a-substring-of-given-length.md) — 🟡 Medium · LeetCode · _added 2026-09-02_
@@ -53,9 +56,6 @@ _Last synced: 2026-09-03 17:55 UTC_
 - [Mirror Distance of an Integer](solutions/Easy/035-mirror-distance-of-an-integer.md) — 🟢 Easy · LeetCode · _added 2026-08-30_
 - [Valid Word Abbreviation](solutions/Medium/034-valid-word-abbreviation.md) — 🟡 Medium · NeetCode · _added 2026-08-30_
 - [Anagram Palindrome](solutions/Easy/033-anagram-palindrome.md) — 🟢 Easy · GFG · _added 2026-08-29_
-- [Minimum Absolute Distance Between Mirror Pairs](solutions/Medium/032-minimum-absolute-distance-between-mirror-pairs.md) — 🟡 Medium · LeetCode · _added 2026-08-29_
-- [Shortest Distance to Target String in a Circular Array](solutions/Easy/031-shortest-distance-to-target-string-in-a-circular-array.md) — 🟢 Easy · LeetCode · _added 2026-08-28_
-- [Closest Equal Element Queries](solutions/Medium/030-closest-equal-element-queries.md) — 🟡 Medium · LeetCode · _added 2026-08-28_
 <!-- RECENT:END -->
 
 ## 📂 Structure

@@ -531,6 +531,42 @@
       "solved_on": "2026-04-21T11:22:00.000Z",
       "path": "solutions/Easy/044-same-tree.md",
       "uploaded_at": "2026-09-03T17:55:53.235581+00:00"
+    },
+    {
+      "page_id": "34a5d928-0c0d-8051-837c-df4108c72307",
+      "question": "Detect Capital ",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Strings"
+      ],
+      "solved_on": "2026-04-22T06:25:00.000Z",
+      "path": "solutions/Easy/045-detect-capital.md",
+      "uploaded_at": "2026-09-04T17:41:20.107471+00:00"
+    },
+    {
+      "page_id": "34a5d928-0c0d-807e-865f-f9b14030a16a",
+      "question": "Words Within Two Edits of Dictionary",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Strings"
+      ],
+      "solved_on": "2026-04-22T06:29:00.000Z",
+      "path": "solutions/Easy/046-words-within-two-edits-of-dictionary.md",
+      "uploaded_at": "2026-09-04T17:41:20.498504+00:00"
+    },
+    {
+      "page_id": "34a5d928-0c0d-8018-b7f4-f09baeaa3cff",
+      "question": "Lowest Common Ancestor Of a Binary Tree",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Trees"
+      ],
+      "solved_on": "2026-04-22T10:29:00.000Z",
+      "path": "solutions/Medium/047-lowest-common-ancestor-of-a-binary-tree.md",
+      "uploaded_at": "2026-09-04T17:41:20.907186+00:00"
     }
   ]
 }
