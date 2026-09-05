@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-47-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-14-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-30-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-50-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-15-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 14 |
-| 🟡 Medium | 30 |
+| 🟢 Easy | 15 |
+| 🟡 Medium | 32 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
 
@@ -27,20 +27,25 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Greedy | 7 |
 | Graphs | 6 |
 | Arrays | 6 |
+| Two Pointers | 6 |
 | Strings | 5 |
-| Two Pointers | 4 |
+| Sliding Window | 3 |
 | Trees | 3 |
 | Binary Search | 2 |
-| Sliding Window | 2 |
-| Hashing | 1 |
+| Hashing | 2 |
+| Linked List | 1 |
+| Prefix Sum | 1 |
 
-_Last synced: 2026-09-04 17:41 UTC_
+_Last synced: 2026-09-05 16:53 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Sum Of Distances](solutions/Medium/050-sum-of-distances.md) — 🟡 Medium · LeetCode · _added 2026-09-05_
+- [Palindrome Linked List](solutions/Easy/049-palindrome-linked-list.md) — 🟢 Easy · LeetCode · _added 2026-09-05_
+- [Maximum Consecutive 1s III ](solutions/Medium/048-maximum-consecutive-1s-iii.md) — 🟡 Medium · LeetCode · _added 2026-09-05_
 - [Lowest Common Ancestor Of a Binary Tree](solutions/Medium/047-lowest-common-ancestor-of-a-binary-tree.md) — 🟡 Medium · LeetCode · _added 2026-09-04_
 - [Words Within Two Edits of Dictionary](solutions/Easy/046-words-within-two-edits-of-dictionary.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
 - [Detect Capital ](solutions/Easy/045-detect-capital.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
@@ -53,9 +58,6 @@ _Last synced: 2026-09-04 17:41 UTC_
 - [Two Furthest Houses With Different Colors](solutions/Easy/038-two-furthest-houses-with-different-colors.md) — 🟢 Easy · LeetCode · _added 2026-09-01_
 - [Untitled](solutions/Unsorted/037-untitled.md) — ⚪ Unsorted · Other · _added 2026-08-31_
 - [Maximum distance between a pair of values](solutions/Medium/036-maximum-distance-between-a-pair-of-values.md) — 🟡 Medium · LeetCode · _added 2026-08-30_
-- [Mirror Distance of an Integer](solutions/Easy/035-mirror-distance-of-an-integer.md) — 🟢 Easy · LeetCode · _added 2026-08-30_
-- [Valid Word Abbreviation](solutions/Medium/034-valid-word-abbreviation.md) — 🟡 Medium · NeetCode · _added 2026-08-30_
-- [Anagram Palindrome](solutions/Easy/033-anagram-palindrome.md) — 🟢 Easy · GFG · _added 2026-08-29_
 <!-- RECENT:END -->
 
 ## 📂 Structure
