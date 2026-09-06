@@ -606,6 +606,30 @@
       "solved_on": "2026-04-23T06:47:00.000Z",
       "path": "solutions/Medium/050-sum-of-distances.md",
       "uploaded_at": "2026-09-05T16:53:19.428388+00:00"
+    },
+    {
+      "page_id": "34b5d928-0c0d-8034-b818-f9e4fbc13898",
+      "question": "Two Equal Sum Subarrays",
+      "difficulty": "Easy",
+      "platform": "GFG",
+      "topics": [
+        "Prefix Sum"
+      ],
+      "solved_on": "2026-04-23T12:28:00.000Z",
+      "path": "solutions/Easy/051-two-equal-sum-subarrays.md",
+      "uploaded_at": "2026-09-06T17:11:20.183911+00:00"
+    },
+    {
+      "page_id": "34b5d928-0c0d-801f-87d6-f5211f969106",
+      "question": "Traffic Signal Color",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Strings"
+      ],
+      "solved_on": "2026-04-23T17:07:00.000Z",
+      "path": "solutions/Easy/052-traffic-signal-color.md",
+      "uploaded_at": "2026-09-06T17:11:20.608519+00:00"
     }
   ]
 }
