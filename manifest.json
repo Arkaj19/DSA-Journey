@@ -630,6 +630,30 @@
       "solved_on": "2026-04-23T17:07:00.000Z",
       "path": "solutions/Easy/052-traffic-signal-color.md",
       "uploaded_at": "2026-09-06T17:11:20.608519+00:00"
+    },
+    {
+      "page_id": "34b5d928-0c0d-8032-81b0-c27f3854cdad",
+      "question": "Count Digit Appearances",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Math"
+      ],
+      "solved_on": "2026-04-23T17:20:00.000Z",
+      "path": "solutions/Medium/053-count-digit-appearances.md",
+      "uploaded_at": "2026-09-07T18:47:23.942094+00:00"
+    },
+    {
+      "page_id": "34b5d928-0c0d-801b-a80e-e545ccb62c16",
+      "question": "3896. Minimum Operations to Transform Array into Alternating Prime",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Math"
+      ],
+      "solved_on": "2026-04-23T17:22:00.000Z",
+      "path": "solutions/Medium/054-3896-minimum-operations-to-transform-array-into-alternating-prime.md",
+      "uploaded_at": "2026-09-07T18:47:24.302625+00:00"
     }
   ]
 }
