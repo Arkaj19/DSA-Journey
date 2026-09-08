@@ -654,6 +654,18 @@
       "solved_on": "2026-04-23T17:22:00.000Z",
       "path": "solutions/Medium/054-3896-minimum-operations-to-transform-array-into-alternating-prime.md",
       "uploaded_at": "2026-09-07T18:47:24.302625+00:00"
+    },
+    {
+      "page_id": "34c5d928-0c0d-8003-8cc0-d835e93870db",
+      "question": "Furthest Point From Origin",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Math"
+      ],
+      "solved_on": "2026-04-24T06:02:00.000Z",
+      "path": "solutions/Easy/055-furthest-point-from-origin.md",
+      "uploaded_at": "2026-09-08T17:58:31.251728+00:00"
     }
   ]
 }

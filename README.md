@@ -7,14 +7,14 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-54-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-17-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-34-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-55-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-18-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-34-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 17 |
+| 🟢 Easy | 18 |
 | 🟡 Medium | 34 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
@@ -31,18 +31,19 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Two Pointers | 6 |
 | Sliding Window | 3 |
 | Trees | 3 |
+| Math | 3 |
 | Binary Search | 2 |
 | Hashing | 2 |
 | Prefix Sum | 2 |
-| Math | 2 |
 
-_Last synced: 2026-09-07 18:47 UTC_
+_Last synced: 2026-09-08 17:58 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Furthest Point From Origin](solutions/Easy/055-furthest-point-from-origin.md) — 🟢 Easy · LeetCode · _added 2026-09-08_
 - [3896. Minimum Operations to Transform Array into Alternating Prime](solutions/Medium/054-3896-minimum-operations-to-transform-array-into-alternating-prime.md) — 🟡 Medium · LeetCode · _added 2026-09-07_
 - [Count Digit Appearances](solutions/Medium/053-count-digit-appearances.md) — 🟡 Medium · LeetCode · _added 2026-09-07_
 - [Traffic Signal Color](solutions/Easy/052-traffic-signal-color.md) — 🟢 Easy · LeetCode · _added 2026-09-06_
@@ -57,7 +58,6 @@ _Last synced: 2026-09-07 18:47 UTC_
 - [Maximum Depth of Binary Tree](solutions/Easy/043-maximum-depth-of-binary-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
 - [Maximum Number of Vowels in a Substring of Given Length](solutions/Medium/042-maximum-number-of-vowels-in-a-substring-of-given-length.md) — 🟡 Medium · LeetCode · _added 2026-09-02_
 - [Search Insert Position](solutions/Easy/041-search-insert-position.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
-- [Fruits Into Baskets](solutions/Medium/040-fruits-into-baskets.md) — 🟡 Medium · LeetCode · _added 2026-09-01_
 <!-- RECENT:END -->
 
 ## 📂 Structure
