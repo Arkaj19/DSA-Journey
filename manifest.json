@@ -666,6 +666,18 @@
       "solved_on": "2026-04-24T06:02:00.000Z",
       "path": "solutions/Easy/055-furthest-point-from-origin.md",
       "uploaded_at": "2026-09-08T17:58:31.251728+00:00"
+    },
+    {
+      "page_id": "34c5d928-0c0d-807a-a803-ce9245922b07",
+      "question": "Buildings with Sunlight",
+      "difficulty": "Easy",
+      "platform": "GFG",
+      "topics": [
+        "Math"
+      ],
+      "solved_on": "2026-04-24T06:33:00.000Z",
+      "path": "solutions/Easy/056-buildings-with-sunlight.md",
+      "uploaded_at": "2026-09-09T17:53:16.014392+00:00"
     }
   ]
 }
