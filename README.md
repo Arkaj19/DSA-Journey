@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-56-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-19-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-34-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-59-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-21-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 19 |
-| 🟡 Medium | 34 |
+| 🟢 Easy | 21 |
+| 🟡 Medium | 35 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
 
@@ -29,20 +29,23 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Strings | 6 |
 | Arrays | 6 |
 | Two Pointers | 6 |
-| Math | 4 |
+| Math | 6 |
 | Sliding Window | 3 |
 | Trees | 3 |
+| Prefix Sum | 3 |
 | Binary Search | 2 |
 | Hashing | 2 |
-| Prefix Sum | 2 |
 
-_Last synced: 2026-09-09 17:53 UTC_
+_Last synced: 2026-09-10 17:45 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Smallest Stable Index 2 ](solutions/Medium/059-smallest-stable-index-2.md) — 🟡 Medium · LeetCode · _added 2026-09-10_
+- [Smallest Stable Index 1](solutions/Easy/058-smallest-stable-index-1.md) — 🟢 Easy · LeetCode · _added 2026-09-10_
+- [Intersection of two Linked List](solutions/Easy/057-intersection-of-two-linked-list.md) — 🟢 Easy · LeetCode · _added 2026-09-10_
 - [Buildings with Sunlight](solutions/Easy/056-buildings-with-sunlight.md) — 🟢 Easy · GFG · _added 2026-09-09_
 - [Furthest Point From Origin](solutions/Easy/055-furthest-point-from-origin.md) — 🟢 Easy · LeetCode · _added 2026-09-08_
 - [3896. Minimum Operations to Transform Array into Alternating Prime](solutions/Medium/054-3896-minimum-operations-to-transform-array-into-alternating-prime.md) — 🟡 Medium · LeetCode · _added 2026-09-07_
@@ -55,9 +58,6 @@ _Last synced: 2026-09-09 17:53 UTC_
 - [Lowest Common Ancestor Of a Binary Tree](solutions/Medium/047-lowest-common-ancestor-of-a-binary-tree.md) — 🟡 Medium · LeetCode · _added 2026-09-04_
 - [Words Within Two Edits of Dictionary](solutions/Easy/046-words-within-two-edits-of-dictionary.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
 - [Detect Capital ](solutions/Easy/045-detect-capital.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
-- [Same Tree](solutions/Easy/044-same-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-03_
-- [Maximum Depth of Binary Tree](solutions/Easy/043-maximum-depth-of-binary-tree.md) — 🟢 Easy · LeetCode · _added 2026-09-02_
-- [Maximum Number of Vowels in a Substring of Given Length](solutions/Medium/042-maximum-number-of-vowels-in-a-substring-of-given-length.md) — 🟡 Medium · LeetCode · _added 2026-09-02_
 <!-- RECENT:END -->
 
 ## 📂 Structure

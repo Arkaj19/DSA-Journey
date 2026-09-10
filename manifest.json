@@ -678,6 +678,43 @@
       "solved_on": "2026-04-24T06:33:00.000Z",
       "path": "solutions/Easy/056-buildings-with-sunlight.md",
       "uploaded_at": "2026-09-09T17:53:16.014392+00:00"
+    },
+    {
+      "page_id": "34c5d928-0c0d-809d-bbba-fdf59b3566a4",
+      "question": "Intersection of two Linked List",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Linked List"
+      ],
+      "solved_on": "2026-04-24T10:22:00.000Z",
+      "path": "solutions/Easy/057-intersection-of-two-linked-list.md",
+      "uploaded_at": "2026-09-10T17:45:53.688382+00:00"
+    },
+    {
+      "page_id": "34c5d928-0c0d-807e-9b9f-e8626b5fbf02",
+      "question": "Smallest Stable Index 1",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Math"
+      ],
+      "solved_on": "2026-04-24T15:02:00.000Z",
+      "path": "solutions/Easy/058-smallest-stable-index-1.md",
+      "uploaded_at": "2026-09-10T17:45:54.965979+00:00"
+    },
+    {
+      "page_id": "34c5d928-0c0d-804f-84ad-c0b4d557948a",
+      "question": "Smallest Stable Index 2 ",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Prefix Sum",
+        "Math"
+      ],
+      "solved_on": "2026-04-24T15:06:00.000Z",
+      "path": "solutions/Medium/059-smallest-stable-index-2.md",
+      "uploaded_at": "2026-09-10T17:45:58.108231+00:00"
     }
   ]
 }
