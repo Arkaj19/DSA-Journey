@@ -715,6 +715,42 @@
       "solved_on": "2026-04-24T15:06:00.000Z",
       "path": "solutions/Medium/059-smallest-stable-index-2.md",
       "uploaded_at": "2026-09-10T17:45:58.108231+00:00"
+    },
+    {
+      "page_id": "34e5d928-0c0d-8022-9d10-c61ae921c727",
+      "question": "Find Pivot Index ",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Prefix Sum"
+      ],
+      "solved_on": "2026-04-26T14:23:00.000Z",
+      "path": "solutions/Easy/060-find-pivot-index.md",
+      "uploaded_at": "2026-09-11T17:48:06.678486+00:00"
+    },
+    {
+      "page_id": "34e5d928-0c0d-801d-97f6-cf561b84d549",
+      "question": "Find the middle index of the array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Prefix Sum"
+      ],
+      "solved_on": "2026-04-26T17:19:00.000Z",
+      "path": "solutions/Easy/061-find-the-middle-index-of-the-array.md",
+      "uploaded_at": "2026-09-11T17:48:07.184472+00:00"
+    },
+    {
+      "page_id": "34e5d928-0c0d-8012-8946-e4b2bc306cad",
+      "question": "Partition Array Into Three Parts With Equal Sum",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Prefix Sum"
+      ],
+      "solved_on": "2026-04-26T18:05:00.000Z",
+      "path": "solutions/Easy/062-partition-array-into-three-parts-with-equal-sum.md",
+      "uploaded_at": "2026-09-11T17:48:07.747106+00:00"
     }
   ]
 }

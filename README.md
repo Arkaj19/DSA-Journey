@@ -7,14 +7,14 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-59-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-21-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-62-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-24-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 21 |
+| 🟢 Easy | 24 |
 | 🟡 Medium | 35 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
@@ -29,20 +29,23 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Strings | 6 |
 | Arrays | 6 |
 | Two Pointers | 6 |
+| Prefix Sum | 6 |
 | Math | 6 |
 | Sliding Window | 3 |
 | Trees | 3 |
-| Prefix Sum | 3 |
 | Binary Search | 2 |
 | Hashing | 2 |
 
-_Last synced: 2026-09-10 17:45 UTC_
+_Last synced: 2026-09-11 17:48 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Partition Array Into Three Parts With Equal Sum](solutions/Easy/062-partition-array-into-three-parts-with-equal-sum.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
+- [Find the middle index of the array](solutions/Easy/061-find-the-middle-index-of-the-array.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
+- [Find Pivot Index ](solutions/Easy/060-find-pivot-index.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
 - [Smallest Stable Index 2 ](solutions/Medium/059-smallest-stable-index-2.md) — 🟡 Medium · LeetCode · _added 2026-09-10_
 - [Smallest Stable Index 1](solutions/Easy/058-smallest-stable-index-1.md) — 🟢 Easy · LeetCode · _added 2026-09-10_
 - [Intersection of two Linked List](solutions/Easy/057-intersection-of-two-linked-list.md) — 🟢 Easy · LeetCode · _added 2026-09-10_
@@ -55,9 +58,6 @@ _Last synced: 2026-09-10 17:45 UTC_
 - [Sum Of Distances](solutions/Medium/050-sum-of-distances.md) — 🟡 Medium · LeetCode · _added 2026-09-05_
 - [Palindrome Linked List](solutions/Easy/049-palindrome-linked-list.md) — 🟢 Easy · LeetCode · _added 2026-09-05_
 - [Maximum Consecutive 1s III ](solutions/Medium/048-maximum-consecutive-1s-iii.md) — 🟡 Medium · LeetCode · _added 2026-09-05_
-- [Lowest Common Ancestor Of a Binary Tree](solutions/Medium/047-lowest-common-ancestor-of-a-binary-tree.md) — 🟡 Medium · LeetCode · _added 2026-09-04_
-- [Words Within Two Edits of Dictionary](solutions/Easy/046-words-within-two-edits-of-dictionary.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
-- [Detect Capital ](solutions/Easy/045-detect-capital.md) — 🟢 Easy · LeetCode · _added 2026-09-04_
 <!-- RECENT:END -->
 
 ## 📂 Structure
