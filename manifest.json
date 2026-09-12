@@ -751,6 +751,46 @@
       "solved_on": "2026-04-26T18:05:00.000Z",
       "path": "solutions/Easy/062-partition-array-into-three-parts-with-equal-sum.md",
       "uploaded_at": "2026-09-11T17:48:07.747106+00:00"
+    },
+    {
+      "page_id": "34f5d928-0c0d-805d-b6e4-e905b9c93535",
+      "question": "Minimum Operations to Make a Uni-Value Grid",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Math",
+        "Grid",
+        "Median Calculation"
+      ],
+      "solved_on": "2026-04-27T06:16:00.000Z",
+      "path": "solutions/Medium/063-minimum-operations-to-make-a-uni-value-grid.md",
+      "uploaded_at": "2026-09-12T17:18:56.170896+00:00"
+    },
+    {
+      "page_id": "34f5d928-0c0d-8096-9657-d9f121cc98c1",
+      "question": "Maximum Path Score in a Grid",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Grid",
+        "DP"
+      ],
+      "solved_on": "2026-04-27T06:17:00.000Z",
+      "path": "solutions/Medium/064-maximum-path-score-in-a-grid.md",
+      "uploaded_at": "2026-09-12T17:18:56.526644+00:00"
+    },
+    {
+      "page_id": "3545d928-0c0d-80ec-8212-d4457af8f694",
+      "question": "Rotated Digits",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Math"
+      ],
+      "solved_on": "2026-05-02T12:56:00.000Z",
+      "path": "solutions/Medium/065-rotated-digits.md",
+      "uploaded_at": "2026-09-12T17:18:56.921936+00:00"
     }
   ]
 }
