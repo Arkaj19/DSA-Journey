@@ -791,6 +791,18 @@
       "solved_on": "2026-05-02T12:56:00.000Z",
       "path": "solutions/Medium/065-rotated-digits.md",
       "uploaded_at": "2026-09-12T17:18:56.921936+00:00"
+    },
+    {
+      "page_id": "3555d928-0c0d-8095-944d-f046ba520489",
+      "question": "Rotate String",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Strings"
+      ],
+      "solved_on": "2026-05-03T03:42:00.000Z",
+      "path": "solutions/Easy/066-rotate-string.md",
+      "uploaded_at": "2026-09-13T17:29:16.602216+00:00"
     }
   ]
 }

@@ -7,14 +7,14 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-65-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-24-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-38-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-66-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-25-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-38-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 24 |
+| 🟢 Easy | 25 |
 | 🟡 Medium | 38 |
 | 🔴 Hard | 2 |
 | ⚪ Unsorted | 1 |
@@ -26,9 +26,9 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | DP | 17 |
 | Math | 8 |
 | Greedy | 7 |
+| Strings | 7 |
 | Arrays | 7 |
 | Graphs | 6 |
-| Strings | 6 |
 | Two Pointers | 6 |
 | Prefix Sum | 6 |
 | Sliding Window | 3 |
@@ -36,13 +36,14 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Binary Search | 2 |
 | Hashing | 2 |
 
-_Last synced: 2026-09-12 17:18 UTC_
+_Last synced: 2026-09-13 17:29 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Rotate String](solutions/Easy/066-rotate-string.md) — 🟢 Easy · LeetCode · _added 2026-09-13_
 - [Rotated Digits](solutions/Medium/065-rotated-digits.md) — 🟡 Medium · LeetCode · _added 2026-09-12_
 - [Maximum Path Score in a Grid](solutions/Medium/064-maximum-path-score-in-a-grid.md) — 🟡 Medium · LeetCode · _added 2026-09-12_
 - [Minimum Operations to Make a Uni-Value Grid](solutions/Medium/063-minimum-operations-to-make-a-uni-value-grid.md) — 🟡 Medium · LeetCode · _added 2026-09-12_
@@ -57,7 +58,6 @@ _Last synced: 2026-09-12 17:18 UTC_
 - [3896. Minimum Operations to Transform Array into Alternating Prime](solutions/Medium/054-3896-minimum-operations-to-transform-array-into-alternating-prime.md) — 🟡 Medium · LeetCode · _added 2026-09-07_
 - [Count Digit Appearances](solutions/Medium/053-count-digit-appearances.md) — 🟡 Medium · LeetCode · _added 2026-09-07_
 - [Traffic Signal Color](solutions/Easy/052-traffic-signal-color.md) — 🟢 Easy · LeetCode · _added 2026-09-06_
-- [Two Equal Sum Subarrays](solutions/Easy/051-two-equal-sum-subarrays.md) — 🟢 Easy · GFG · _added 2026-09-06_
 <!-- RECENT:END -->
 
 ## 📂 Structure
