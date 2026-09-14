@@ -803,6 +803,30 @@
       "solved_on": "2026-05-03T03:42:00.000Z",
       "path": "solutions/Easy/066-rotate-string.md",
       "uploaded_at": "2026-09-13T17:29:16.602216+00:00"
+    },
+    {
+      "page_id": "3565d928-0c0d-8050-881d-c71605989c37",
+      "question": "Rotate Image",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Matrix"
+      ],
+      "solved_on": "2026-05-04T06:38:00.000Z",
+      "path": "solutions/Medium/067-rotate-image.md",
+      "uploaded_at": "2026-09-14T19:30:18.741574+00:00"
+    },
+    {
+      "page_id": "3575d928-0c0d-8020-bb31-fbc3329242e0",
+      "question": "Rotate List",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Linked List"
+      ],
+      "solved_on": "2026-05-05T09:49:00.000Z",
+      "path": "solutions/Medium/068-rotate-list.md",
+      "uploaded_at": "2026-09-14T19:30:19.498507+00:00"
     }
   ]
 }
