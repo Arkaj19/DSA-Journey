@@ -827,6 +827,32 @@
       "solved_on": "2026-05-05T09:49:00.000Z",
       "path": "solutions/Medium/068-rotate-list.md",
       "uploaded_at": "2026-09-14T19:30:19.498507+00:00"
+    },
+    {
+      "page_id": "3575d928-0c0d-8015-9bd2-cc11d519e688",
+      "question": "Rotate a Matrix by 180 Counterclockwise",
+      "difficulty": "Medium",
+      "platform": "GFG",
+      "topics": [
+        "Matrix"
+      ],
+      "solved_on": "2026-05-05T11:47:00.000Z",
+      "path": "solutions/Medium/069-rotate-a-matrix-by-180-counterclockwise.md",
+      "uploaded_at": "2026-09-15T18:19:11.843392+00:00"
+    },
+    {
+      "page_id": "3595d928-0c0d-8025-844b-edab7f2fe3ad",
+      "question": "1700. Number of Students Unable to Eat Lunch",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Queue",
+        "Stack",
+        "Arrays"
+      ],
+      "solved_on": "2026-05-07T10:37:00.000Z",
+      "path": "solutions/Easy/070-1700-number-of-students-unable-to-eat-lunch.md",
+      "uploaded_at": "2026-09-15T18:19:12.274357+00:00"
     }
   ]
 }
