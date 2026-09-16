@@ -853,6 +853,46 @@
       "solved_on": "2026-05-07T10:37:00.000Z",
       "path": "solutions/Easy/070-1700-number-of-students-unable-to-eat-lunch.md",
       "uploaded_at": "2026-09-15T18:19:12.274357+00:00"
+    },
+    {
+      "page_id": "35d5d928-0c0d-80cc-bb09-d0e510e8a60e",
+      "question": "2553. Separate the Digits in an Array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Strings"
+      ],
+      "solved_on": "2026-05-11T05:25:00.000Z",
+      "path": "solutions/Easy/071-2553-separate-the-digits-in-an-array.md",
+      "uploaded_at": "2026-09-16T18:16:28.516841+00:00"
+    },
+    {
+      "page_id": "35e5d928-0c0d-80f3-ad6a-f9e1d2ff8778",
+      "question": "1665. Minimum Initial Energy to Finish Tasks",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Binary Search",
+        "Greedy"
+      ],
+      "solved_on": "2026-05-12T07:07:00.000Z",
+      "path": "solutions/Hard/072-1665-minimum-initial-energy-to-finish-tasks.md",
+      "uploaded_at": "2026-09-16T18:16:29.382506+00:00"
+    },
+    {
+      "page_id": "35f5d928-0c0d-80e7-972f-e13df75c461e",
+      "question": "2848. Points That Intersect With Cars",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Boolean array formation"
+      ],
+      "solved_on": "2026-05-13T20:06:00.000Z",
+      "path": "solutions/Easy/073-2848-points-that-intersect-with-cars.md",
+      "uploaded_at": "2026-09-16T18:16:29.966767+00:00"
     }
   ]
 }

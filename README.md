@@ -7,16 +7,16 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-70-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-26-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-41-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-73-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-28-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-41-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 26 |
+| 🟢 Easy | 28 |
 | 🟡 Medium | 41 |
-| 🔴 Hard | 2 |
+| 🔴 Hard | 3 |
 | ⚪ Unsorted | 1 |
 
 ### Top topics
@@ -24,25 +24,28 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Topic | Count |
 |---|---|
 | DP | 17 |
-| Arrays | 8 |
+| Arrays | 11 |
+| Greedy | 8 |
+| Strings | 8 |
 | Math | 8 |
-| Greedy | 7 |
-| Strings | 7 |
 | Graphs | 6 |
 | Two Pointers | 6 |
 | Prefix Sum | 6 |
+| Binary Search | 3 |
 | Sliding Window | 3 |
 | Trees | 3 |
 | Linked List | 3 |
-| Binary Search | 2 |
 
-_Last synced: 2026-09-15 18:19 UTC_
+_Last synced: 2026-09-16 18:16 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [2848. Points That Intersect With Cars](solutions/Easy/073-2848-points-that-intersect-with-cars.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
+- [1665. Minimum Initial Energy to Finish Tasks](solutions/Hard/072-1665-minimum-initial-energy-to-finish-tasks.md) — 🔴 Hard · LeetCode · _added 2026-09-16_
+- [2553. Separate the Digits in an Array](solutions/Easy/071-2553-separate-the-digits-in-an-array.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
 - [1700. Number of Students Unable to Eat Lunch](solutions/Easy/070-1700-number-of-students-unable-to-eat-lunch.md) — 🟢 Easy · LeetCode · _added 2026-09-15_
 - [Rotate a Matrix by 180 Counterclockwise](solutions/Medium/069-rotate-a-matrix-by-180-counterclockwise.md) — 🟡 Medium · GFG · _added 2026-09-15_
 - [Rotate List](solutions/Medium/068-rotate-list.md) — 🟡 Medium · LeetCode · _added 2026-09-14_
@@ -55,9 +58,6 @@ _Last synced: 2026-09-15 18:19 UTC_
 - [Find the middle index of the array](solutions/Easy/061-find-the-middle-index-of-the-array.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
 - [Find Pivot Index ](solutions/Easy/060-find-pivot-index.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
 - [Smallest Stable Index 2 ](solutions/Medium/059-smallest-stable-index-2.md) — 🟡 Medium · LeetCode · _added 2026-09-10_
-- [Smallest Stable Index 1](solutions/Easy/058-smallest-stable-index-1.md) — 🟢 Easy · LeetCode · _added 2026-09-10_
-- [Intersection of two Linked List](solutions/Easy/057-intersection-of-two-linked-list.md) — 🟢 Easy · LeetCode · _added 2026-09-10_
-- [Buildings with Sunlight](solutions/Easy/056-buildings-with-sunlight.md) — 🟢 Easy · GFG · _added 2026-09-09_
 <!-- RECENT:END -->
 
 ## 📂 Structure
