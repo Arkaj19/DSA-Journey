@@ -893,6 +893,31 @@
       "solved_on": "2026-05-13T20:06:00.000Z",
       "path": "solutions/Easy/073-2848-points-that-intersect-with-cars.md",
       "uploaded_at": "2026-09-16T18:16:29.966767+00:00"
+    },
+    {
+      "page_id": "3615d928-0c0d-80d1-95ee-f7559343e4cf",
+      "question": "33. Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Binary Search"
+      ],
+      "solved_on": "2026-05-15T10:04:00.000Z",
+      "path": "solutions/Medium/074-33-search-in-rotated-sorted-array.md",
+      "uploaded_at": "2026-09-17T18:23:23.246385+00:00"
+    },
+    {
+      "page_id": "36b5d928-0c0d-80e7-8422-cbe7bf4edfd7",
+      "question": "Limit Occurences in Sorted Array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays"
+      ],
+      "solved_on": "2026-05-25T11:57:00.000Z",
+      "path": "solutions/Easy/075-limit-occurences-in-sorted-array.md",
+      "uploaded_at": "2026-09-17T18:23:23.444207+00:00"
     }
   ]
 }

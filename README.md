@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-73-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-28-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-41-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-75-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-29-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 28 |
-| 🟡 Medium | 41 |
+| 🟢 Easy | 29 |
+| 🟡 Medium | 42 |
 | 🔴 Hard | 3 |
 | ⚪ Unsorted | 1 |
 
@@ -24,25 +24,27 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Topic | Count |
 |---|---|
 | DP | 17 |
-| Arrays | 11 |
+| Arrays | 13 |
 | Greedy | 8 |
 | Strings | 8 |
 | Math | 8 |
 | Graphs | 6 |
 | Two Pointers | 6 |
 | Prefix Sum | 6 |
-| Binary Search | 3 |
+| Binary Search | 4 |
 | Sliding Window | 3 |
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-16 18:16 UTC_
+_Last synced: 2026-09-17 18:23 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Limit Occurences in Sorted Array](solutions/Easy/075-limit-occurences-in-sorted-array.md) — 🟢 Easy · LeetCode · _added 2026-09-17_
+- [33. Search in Rotated Sorted Array](solutions/Medium/074-33-search-in-rotated-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-17_
 - [2848. Points That Intersect With Cars](solutions/Easy/073-2848-points-that-intersect-with-cars.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
 - [1665. Minimum Initial Energy to Finish Tasks](solutions/Hard/072-1665-minimum-initial-energy-to-finish-tasks.md) — 🔴 Hard · LeetCode · _added 2026-09-16_
 - [2553. Separate the Digits in an Array](solutions/Easy/071-2553-separate-the-digits-in-an-array.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
@@ -56,8 +58,6 @@ _Last synced: 2026-09-16 18:16 UTC_
 - [Minimum Operations to Make a Uni-Value Grid](solutions/Medium/063-minimum-operations-to-make-a-uni-value-grid.md) — 🟡 Medium · LeetCode · _added 2026-09-12_
 - [Partition Array Into Three Parts With Equal Sum](solutions/Easy/062-partition-array-into-three-parts-with-equal-sum.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
 - [Find the middle index of the array](solutions/Easy/061-find-the-middle-index-of-the-array.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
-- [Find Pivot Index ](solutions/Easy/060-find-pivot-index.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
-- [Smallest Stable Index 2 ](solutions/Medium/059-smallest-stable-index-2.md) — 🟡 Medium · LeetCode · _added 2026-09-10_
 <!-- RECENT:END -->
 
 ## 📂 Structure
