@@ -918,6 +918,19 @@
       "solved_on": "2026-05-25T11:57:00.000Z",
       "path": "solutions/Easy/075-limit-occurences-in-sorted-array.md",
       "uploaded_at": "2026-09-17T18:23:23.444207+00:00"
+    },
+    {
+      "page_id": "36d5d928-0c0d-806e-8d68-f1c2d355ec1f",
+      "question": "3120. Count the Number of Special Characters I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Sets"
+      ],
+      "solved_on": "2026-05-27T07:45:00.000Z",
+      "path": "solutions/Easy/076-3120-count-the-number-of-special-characters-i.md",
+      "uploaded_at": "2026-09-18T17:44:59.759439+00:00"
     }
   ]
 }

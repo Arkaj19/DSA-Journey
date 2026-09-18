@@ -7,14 +7,14 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-75-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-29-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-76-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-30-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 29 |
+| 🟢 Easy | 30 |
 | 🟡 Medium | 42 |
 | 🔴 Hard | 3 |
 | ⚪ Unsorted | 1 |
@@ -24,7 +24,7 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Topic | Count |
 |---|---|
 | DP | 17 |
-| Arrays | 13 |
+| Arrays | 14 |
 | Greedy | 8 |
 | Strings | 8 |
 | Math | 8 |
@@ -36,13 +36,14 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-17 18:23 UTC_
+_Last synced: 2026-09-18 17:44 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [3120. Count the Number of Special Characters I](solutions/Easy/076-3120-count-the-number-of-special-characters-i.md) — 🟢 Easy · LeetCode · _added 2026-09-18_
 - [Limit Occurences in Sorted Array](solutions/Easy/075-limit-occurences-in-sorted-array.md) — 🟢 Easy · LeetCode · _added 2026-09-17_
 - [33. Search in Rotated Sorted Array](solutions/Medium/074-33-search-in-rotated-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-17_
 - [2848. Points That Intersect With Cars](solutions/Easy/073-2848-points-that-intersect-with-cars.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
@@ -57,7 +58,6 @@ _Last synced: 2026-09-17 18:23 UTC_
 - [Maximum Path Score in a Grid](solutions/Medium/064-maximum-path-score-in-a-grid.md) — 🟡 Medium · LeetCode · _added 2026-09-12_
 - [Minimum Operations to Make a Uni-Value Grid](solutions/Medium/063-minimum-operations-to-make-a-uni-value-grid.md) — 🟡 Medium · LeetCode · _added 2026-09-12_
 - [Partition Array Into Three Parts With Equal Sum](solutions/Easy/062-partition-array-into-three-parts-with-equal-sum.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
-- [Find the middle index of the array](solutions/Easy/061-find-the-middle-index-of-the-array.md) — 🟢 Easy · LeetCode · _added 2026-09-11_
 <!-- RECENT:END -->
 
 ## 📂 Structure
