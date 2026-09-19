@@ -931,6 +931,43 @@
       "solved_on": "2026-05-27T07:45:00.000Z",
       "path": "solutions/Easy/076-3120-count-the-number-of-special-characters-i.md",
       "uploaded_at": "2026-09-18T17:44:59.759439+00:00"
+    },
+    {
+      "page_id": "3735d928-0c0d-8089-8c84-d5caad335538",
+      "question": "3633. Earliest Finish Time for Land and Water Rides I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays",
+        "Greedy",
+        "Nested For"
+      ],
+      "solved_on": "2026-06-02T04:27:00.000Z",
+      "path": "solutions/Easy/077-3633-earliest-finish-time-for-land-and-water-rides-i.md",
+      "uploaded_at": "2026-09-19T17:20:44.287114+00:00"
+    },
+    {
+      "page_id": "3765d928-0c0d-80e7-b244-ef51239117ee",
+      "question": "Search in Rotated Sorted Array 2",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search",
+        "Arrays"
+      ],
+      "solved_on": "2026-06-05T06:15:00.000Z",
+      "path": "solutions/Medium/078-search-in-rotated-sorted-array-2.md",
+      "uploaded_at": "2026-09-19T17:20:44.663365+00:00"
+    },
+    {
+      "page_id": "3765d928-0c0d-8042-882d-fbbe5a41895a",
+      "question": "Minimum in Rotated Sorted Array",
+      "difficulty": "Unsorted",
+      "platform": "Other",
+      "topics": [],
+      "solved_on": "2026-06-05T06:16:00.000Z",
+      "path": "solutions/Unsorted/079-minimum-in-rotated-sorted-array.md",
+      "uploaded_at": "2026-09-19T17:20:44.894380+00:00"
     }
   ]
 }
