@@ -968,6 +968,26 @@
       "solved_on": "2026-06-05T06:16:00.000Z",
       "path": "solutions/Unsorted/079-minimum-in-rotated-sorted-array.md",
       "uploaded_at": "2026-09-19T17:20:44.894380+00:00"
+    },
+    {
+      "page_id": "3765d928-0c0d-800e-823a-e62571a14f68",
+      "question": "How many times the Array has been sorted?",
+      "difficulty": "Unsorted",
+      "platform": "Other",
+      "topics": [],
+      "solved_on": "2026-06-05T06:16:00.000Z",
+      "path": "solutions/Unsorted/080-how-many-times-the-array-has-been-sorted.md",
+      "uploaded_at": "2026-09-20T17:32:52.064187+00:00"
+    },
+    {
+      "page_id": "3765d928-0c0d-806e-8dd9-da1ea19e351d",
+      "question": "Single element in Sorted Array",
+      "difficulty": "Unsorted",
+      "platform": "Other",
+      "topics": [],
+      "solved_on": "2026-06-05T06:16:00.000Z",
+      "path": "solutions/Unsorted/081-single-element-in-sorted-array.md",
+      "uploaded_at": "2026-09-20T17:32:52.181491+00:00"
     }
   ]
 }

@@ -7,7 +7,7 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-79-blue?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-81-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-31-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-43-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
@@ -17,7 +17,7 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | 🟢 Easy | 31 |
 | 🟡 Medium | 43 |
 | 🔴 Hard | 3 |
-| ⚪ Unsorted | 2 |
+| ⚪ Unsorted | 4 |
 
 ### Top topics
 
@@ -36,13 +36,15 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-19 17:20 UTC_
+_Last synced: 2026-09-20 17:32 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Single element in Sorted Array](solutions/Unsorted/081-single-element-in-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-20_
+- [How many times the Array has been sorted?](solutions/Unsorted/080-how-many-times-the-array-has-been-sorted.md) — ⚪ Unsorted · Other · _added 2026-09-20_
 - [Minimum in Rotated Sorted Array](solutions/Unsorted/079-minimum-in-rotated-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-19_
 - [Search in Rotated Sorted Array 2](solutions/Medium/078-search-in-rotated-sorted-array-2.md) — 🟡 Medium · LeetCode · _added 2026-09-19_
 - [3633. Earliest Finish Time for Land and Water Rides I](solutions/Easy/077-3633-earliest-finish-time-for-land-and-water-rides-i.md) — 🟢 Easy · LeetCode · _added 2026-09-19_
@@ -56,8 +58,6 @@ _Last synced: 2026-09-19 17:20 UTC_
 - [Rotate a Matrix by 180 Counterclockwise](solutions/Medium/069-rotate-a-matrix-by-180-counterclockwise.md) — 🟡 Medium · GFG · _added 2026-09-15_
 - [Rotate List](solutions/Medium/068-rotate-list.md) — 🟡 Medium · LeetCode · _added 2026-09-14_
 - [Rotate Image](solutions/Medium/067-rotate-image.md) — 🟡 Medium · LeetCode · _added 2026-09-14_
-- [Rotate String](solutions/Easy/066-rotate-string.md) — 🟢 Easy · LeetCode · _added 2026-09-13_
-- [Rotated Digits](solutions/Medium/065-rotated-digits.md) — 🟡 Medium · LeetCode · _added 2026-09-12_
 <!-- RECENT:END -->
 
 ## 📂 Structure
