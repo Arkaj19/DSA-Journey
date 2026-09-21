@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-81-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-31-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-43-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-83-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-32-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 31 |
-| 🟡 Medium | 43 |
+| 🟢 Easy | 32 |
+| 🟡 Medium | 44 |
 | 🔴 Hard | 3 |
 | ⚪ Unsorted | 4 |
 
@@ -24,10 +24,10 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Topic | Count |
 |---|---|
 | DP | 17 |
-| Arrays | 16 |
+| Arrays | 17 |
 | Greedy | 9 |
+| Math | 9 |
 | Strings | 8 |
-| Math | 8 |
 | Graphs | 6 |
 | Two Pointers | 6 |
 | Prefix Sum | 6 |
@@ -36,13 +36,15 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-20 17:32 UTC_
+_Last synced: 2026-09-21 19:37 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [3689. Maximum Total Subarray Value I](solutions/Medium/083-3689-maximum-total-subarray-value-i.md) — 🟡 Medium · LeetCode · _added 2026-09-21_
+- [Q1. Exactly One Consecutive Set Bits Pair©leetcode](solutions/Easy/082-q1-exactly-one-consecutive-set-bits-pair-leetcode.md) — 🟢 Easy · LeetCode · _added 2026-09-21_
 - [Single element in Sorted Array](solutions/Unsorted/081-single-element-in-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-20_
 - [How many times the Array has been sorted?](solutions/Unsorted/080-how-many-times-the-array-has-been-sorted.md) — ⚪ Unsorted · Other · _added 2026-09-20_
 - [Minimum in Rotated Sorted Array](solutions/Unsorted/079-minimum-in-rotated-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-19_
@@ -56,8 +58,6 @@ _Last synced: 2026-09-20 17:32 UTC_
 - [2553. Separate the Digits in an Array](solutions/Easy/071-2553-separate-the-digits-in-an-array.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
 - [1700. Number of Students Unable to Eat Lunch](solutions/Easy/070-1700-number-of-students-unable-to-eat-lunch.md) — 🟢 Easy · LeetCode · _added 2026-09-15_
 - [Rotate a Matrix by 180 Counterclockwise](solutions/Medium/069-rotate-a-matrix-by-180-counterclockwise.md) — 🟡 Medium · GFG · _added 2026-09-15_
-- [Rotate List](solutions/Medium/068-rotate-list.md) — 🟡 Medium · LeetCode · _added 2026-09-14_
-- [Rotate Image](solutions/Medium/067-rotate-image.md) — 🟡 Medium · LeetCode · _added 2026-09-14_
 <!-- RECENT:END -->
 
 ## 📂 Structure

@@ -988,6 +988,32 @@
       "solved_on": "2026-06-05T06:16:00.000Z",
       "path": "solutions/Unsorted/081-single-element-in-sorted-array.md",
       "uploaded_at": "2026-09-20T17:32:52.181491+00:00"
+    },
+    {
+      "page_id": "3775d928-0c0d-8083-8197-c79191939b8e",
+      "question": "Q1. Exactly One Consecutive Set Bits Pair\u00a9leetcode",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Bit Manipulation",
+        "Math",
+        "BiWeekly"
+      ],
+      "solved_on": "2026-06-06T14:54:00.000Z",
+      "path": "solutions/Easy/082-q1-exactly-one-consecutive-set-bits-pair-leetcode.md",
+      "uploaded_at": "2026-09-21T19:37:25.670644+00:00"
+    },
+    {
+      "page_id": "37a5d928-0c0d-8017-a948-da171491538a",
+      "question": "3689. Maximum Total Subarray Value I",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Arrays"
+      ],
+      "solved_on": "2026-06-09T06:14:00.000Z",
+      "path": "solutions/Medium/083-3689-maximum-total-subarray-value-i.md",
+      "uploaded_at": "2026-09-21T19:37:25.914767+00:00"
     }
   ]
 }
