@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-83-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-32-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-86-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-34-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 32 |
-| 🟡 Medium | 44 |
+| 🟢 Easy | 34 |
+| 🟡 Medium | 45 |
 | 🔴 Hard | 3 |
 | ⚪ Unsorted | 4 |
 
@@ -23,26 +23,29 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 
 | Topic | Count |
 |---|---|
+| Arrays | 18 |
 | DP | 17 |
-| Arrays | 17 |
 | Greedy | 9 |
 | Math | 9 |
 | Strings | 8 |
+| Binary Search | 7 |
 | Graphs | 6 |
 | Two Pointers | 6 |
 | Prefix Sum | 6 |
-| Binary Search | 5 |
 | Sliding Window | 3 |
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-21 19:37 UTC_
+_Last synced: 2026-09-22 18:10 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Find Kth Rotation](solutions/Easy/086-find-kth-rotation.md) — 🟢 Easy · GFG · _added 2026-09-22_
+- [Search in Rotated Sorted array 2](solutions/Medium/085-search-in-rotated-sorted-array-2.md) — 🟡 Medium · LeetCode · _added 2026-09-22_
+- [Maximum Number of Balloons](solutions/Easy/084-maximum-number-of-balloons.md) — 🟢 Easy · LeetCode · _added 2026-09-22_
 - [3689. Maximum Total Subarray Value I](solutions/Medium/083-3689-maximum-total-subarray-value-i.md) — 🟡 Medium · LeetCode · _added 2026-09-21_
 - [Q1. Exactly One Consecutive Set Bits Pair©leetcode](solutions/Easy/082-q1-exactly-one-consecutive-set-bits-pair-leetcode.md) — 🟢 Easy · LeetCode · _added 2026-09-21_
 - [Single element in Sorted Array](solutions/Unsorted/081-single-element-in-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-20_
@@ -55,9 +58,6 @@ _Last synced: 2026-09-21 19:37 UTC_
 - [33. Search in Rotated Sorted Array](solutions/Medium/074-33-search-in-rotated-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-17_
 - [2848. Points That Intersect With Cars](solutions/Easy/073-2848-points-that-intersect-with-cars.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
 - [1665. Minimum Initial Energy to Finish Tasks](solutions/Hard/072-1665-minimum-initial-energy-to-finish-tasks.md) — 🔴 Hard · LeetCode · _added 2026-09-16_
-- [2553. Separate the Digits in an Array](solutions/Easy/071-2553-separate-the-digits-in-an-array.md) — 🟢 Easy · LeetCode · _added 2026-09-16_
-- [1700. Number of Students Unable to Eat Lunch](solutions/Easy/070-1700-number-of-students-unable-to-eat-lunch.md) — 🟢 Easy · LeetCode · _added 2026-09-15_
-- [Rotate a Matrix by 180 Counterclockwise](solutions/Medium/069-rotate-a-matrix-by-180-counterclockwise.md) — 🟡 Medium · GFG · _added 2026-09-15_
 <!-- RECENT:END -->
 
 ## 📂 Structure

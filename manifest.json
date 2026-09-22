@@ -1014,6 +1014,43 @@
       "solved_on": "2026-06-09T06:14:00.000Z",
       "path": "solutions/Medium/083-3689-maximum-total-subarray-value-i.md",
       "uploaded_at": "2026-09-21T19:37:25.914767+00:00"
+    },
+    {
+      "page_id": "38b5d928-0c0d-808f-9ed4-dfd71b2a8cde",
+      "question": "Maximum Number of Balloons",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Frequency Array"
+      ],
+      "solved_on": "2026-06-26T03:34:00.000Z",
+      "path": "solutions/Easy/084-maximum-number-of-balloons.md",
+      "uploaded_at": "2026-09-22T18:10:51.545149+00:00"
+    },
+    {
+      "page_id": "38b5d928-0c0d-8088-8274-c17c9b43964f",
+      "question": "Search in Rotated Sorted array 2",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search",
+        "Arrays"
+      ],
+      "solved_on": "2026-06-26T04:47:00.000Z",
+      "path": "solutions/Medium/085-search-in-rotated-sorted-array-2.md",
+      "uploaded_at": "2026-09-22T18:10:51.827887+00:00"
+    },
+    {
+      "page_id": "38b5d928-0c0d-80d9-bf21-d75d5d26a9c8",
+      "question": "Find Kth Rotation",
+      "difficulty": "Easy",
+      "platform": "GFG",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-06-26T04:48:00.000Z",
+      "path": "solutions/Easy/086-find-kth-rotation.md",
+      "uploaded_at": "2026-09-22T18:10:52.587808+00:00"
     }
   ]
 }
