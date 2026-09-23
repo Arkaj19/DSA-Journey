@@ -1051,6 +1051,40 @@
       "solved_on": "2026-06-26T04:48:00.000Z",
       "path": "solutions/Easy/086-find-kth-rotation.md",
       "uploaded_at": "2026-09-22T18:10:52.587808+00:00"
+    },
+    {
+      "page_id": "38e5d928-0c0d-80ab-a708-d1736d7bf047",
+      "question": "Find Minimum in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-06-29T06:48:00.000Z",
+      "path": "solutions/Medium/087-find-minimum-in-rotated-sorted-array.md",
+      "uploaded_at": "2026-09-23T18:29:10.416234+00:00"
+    },
+    {
+      "page_id": "38e5d928-0c0d-804b-aa91-f3624d4b4c53",
+      "question": "Single element in Sorted Array",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-06-29T06:56:00.000Z",
+      "path": "solutions/Medium/088-single-element-in-sorted-array.md",
+      "uploaded_at": "2026-09-23T18:29:10.707489+00:00"
+    },
+    {
+      "page_id": "3955d928-0c0d-80cc-a195-fdde59e92c78",
+      "question": "Find the sqrt of an integer",
+      "difficulty": "Unsorted",
+      "platform": "Other",
+      "topics": [],
+      "solved_on": "2026-07-06T16:47:00.000Z",
+      "path": "solutions/Unsorted/089-find-the-sqrt-of-an-integer.md",
+      "uploaded_at": "2026-09-23T18:29:11.091981+00:00"
     }
   ]
 }
