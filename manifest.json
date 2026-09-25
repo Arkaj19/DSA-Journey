@@ -1109,6 +1109,40 @@
       "solved_on": "2026-07-10T10:29:00.000Z",
       "path": "solutions/Medium/091-koko-eating-bananas.md",
       "uploaded_at": "2026-09-24T18:32:30.153362+00:00"
+    },
+    {
+      "page_id": "3a15d928-0c0d-800b-8d02-ef5d7e97bd81",
+      "question": "maximum bouquets in M days",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-07-18T10:23:00.000Z",
+      "path": "solutions/Medium/092-maximum-bouquets-in-m-days.md",
+      "uploaded_at": "2026-09-25T18:45:55.659370+00:00"
+    },
+    {
+      "page_id": "3a15d928-0c0d-80c0-9e19-f388ca019b74",
+      "question": "Untitled",
+      "difficulty": "Unsorted",
+      "platform": "Other",
+      "topics": [],
+      "solved_on": "2026-07-18T11:36:00.000Z",
+      "path": "solutions/Unsorted/093-untitled.md",
+      "uploaded_at": "2026-09-25T18:45:55.889179+00:00"
+    },
+    {
+      "page_id": "3ab5d928-0c0d-808a-87b0-f9923586cc4f",
+      "question": "1283. Find the Smallest Divisor Given a Threshold",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-07-28T09:22:00.000Z",
+      "path": "solutions/Medium/094-1283-find-the-smallest-divisor-given-a-threshold.md",
+      "uploaded_at": "2026-09-25T18:45:56.094939+00:00"
     }
   ]
 }

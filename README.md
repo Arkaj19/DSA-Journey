@@ -7,17 +7,17 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-91-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-34-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-49-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-94-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-34-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-51-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 34 |
-| 🟡 Medium | 49 |
+| 🟡 Medium | 51 |
 | 🔴 Hard | 3 |
-| ⚪ Unsorted | 5 |
+| ⚪ Unsorted | 6 |
 
 ### Top topics
 
@@ -25,7 +25,7 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 |---|---|
 | Arrays | 18 |
 | DP | 17 |
-| Binary Search | 11 |
+| Binary Search | 13 |
 | Greedy | 9 |
 | Math | 9 |
 | Strings | 8 |
@@ -36,13 +36,16 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-24 18:32 UTC_
+_Last synced: 2026-09-25 18:45 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [1283. Find the Smallest Divisor Given a Threshold](solutions/Medium/094-1283-find-the-smallest-divisor-given-a-threshold.md) — 🟡 Medium · LeetCode · _added 2026-09-25_
+- [Untitled](solutions/Unsorted/093-untitled.md) — ⚪ Unsorted · Other · _added 2026-09-25_
+- [maximum bouquets in M days](solutions/Medium/092-maximum-bouquets-in-m-days.md) — 🟡 Medium · LeetCode · _added 2026-09-25_
 - [koko eating bananas](solutions/Medium/091-koko-eating-bananas.md) — 🟡 Medium · LeetCode · _added 2026-09-24_
 - [Find nth root of an integer](solutions/Medium/090-find-nth-root-of-an-integer.md) — 🟡 Medium · GFG · _added 2026-09-24_
 - [Find the sqrt of an integer](solutions/Unsorted/089-find-the-sqrt-of-an-integer.md) — ⚪ Unsorted · Other · _added 2026-09-23_
@@ -55,9 +58,6 @@ _Last synced: 2026-09-24 18:32 UTC_
 - [Q1. Exactly One Consecutive Set Bits Pair©leetcode](solutions/Easy/082-q1-exactly-one-consecutive-set-bits-pair-leetcode.md) — 🟢 Easy · LeetCode · _added 2026-09-21_
 - [Single element in Sorted Array](solutions/Unsorted/081-single-element-in-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-20_
 - [How many times the Array has been sorted?](solutions/Unsorted/080-how-many-times-the-array-has-been-sorted.md) — ⚪ Unsorted · Other · _added 2026-09-20_
-- [Minimum in Rotated Sorted Array](solutions/Unsorted/079-minimum-in-rotated-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-19_
-- [Search in Rotated Sorted Array 2](solutions/Medium/078-search-in-rotated-sorted-array-2.md) — 🟡 Medium · LeetCode · _added 2026-09-19_
-- [3633. Earliest Finish Time for Land and Water Rides I](solutions/Easy/077-3633-earliest-finish-time-for-land-and-water-rides-i.md) — 🟢 Easy · LeetCode · _added 2026-09-19_
 <!-- RECENT:END -->
 
 ## 📂 Structure
