@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-94-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-34-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-51-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-97-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 34 |
-| 🟡 Medium | 51 |
+| 🟢 Easy | 35 |
+| 🟡 Medium | 53 |
 | 🔴 Hard | 3 |
 | ⚪ Unsorted | 6 |
 
@@ -23,9 +23,9 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 
 | Topic | Count |
 |---|---|
-| Arrays | 18 |
+| Arrays | 19 |
 | DP | 17 |
-| Binary Search | 13 |
+| Binary Search | 16 |
 | Greedy | 9 |
 | Math | 9 |
 | Strings | 8 |
@@ -36,13 +36,16 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-25 18:45 UTC_
+_Last synced: 2026-09-26 17:51 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Aggressive Cows](solutions/Medium/097-aggressive-cows.md) — 🟡 Medium · GFG · _added 2026-09-26_
+- [1539. Kth Missing Positive Number](solutions/Easy/096-1539-kth-missing-positive-number.md) — 🟢 Easy · LeetCode · _added 2026-09-26_
+- [Capacity to ship Packages within D days](solutions/Medium/095-capacity-to-ship-packages-within-d-days.md) — 🟡 Medium · LeetCode · _added 2026-09-26_
 - [1283. Find the Smallest Divisor Given a Threshold](solutions/Medium/094-1283-find-the-smallest-divisor-given-a-threshold.md) — 🟡 Medium · LeetCode · _added 2026-09-25_
 - [Untitled](solutions/Unsorted/093-untitled.md) — ⚪ Unsorted · Other · _added 2026-09-25_
 - [maximum bouquets in M days](solutions/Medium/092-maximum-bouquets-in-m-days.md) — 🟡 Medium · LeetCode · _added 2026-09-25_
@@ -55,9 +58,6 @@ _Last synced: 2026-09-25 18:45 UTC_
 - [Search in Rotated Sorted array 2](solutions/Medium/085-search-in-rotated-sorted-array-2.md) — 🟡 Medium · LeetCode · _added 2026-09-22_
 - [Maximum Number of Balloons](solutions/Easy/084-maximum-number-of-balloons.md) — 🟢 Easy · LeetCode · _added 2026-09-22_
 - [3689. Maximum Total Subarray Value I](solutions/Medium/083-3689-maximum-total-subarray-value-i.md) — 🟡 Medium · LeetCode · _added 2026-09-21_
-- [Q1. Exactly One Consecutive Set Bits Pair©leetcode](solutions/Easy/082-q1-exactly-one-consecutive-set-bits-pair-leetcode.md) — 🟢 Easy · LeetCode · _added 2026-09-21_
-- [Single element in Sorted Array](solutions/Unsorted/081-single-element-in-sorted-array.md) — ⚪ Unsorted · Other · _added 2026-09-20_
-- [How many times the Array has been sorted?](solutions/Unsorted/080-how-many-times-the-array-has-been-sorted.md) — ⚪ Unsorted · Other · _added 2026-09-20_
 <!-- RECENT:END -->
 
 ## 📂 Structure

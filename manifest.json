@@ -1143,6 +1143,43 @@
       "solved_on": "2026-07-28T09:22:00.000Z",
       "path": "solutions/Medium/094-1283-find-the-smallest-divisor-given-a-threshold.md",
       "uploaded_at": "2026-09-25T18:45:56.094939+00:00"
+    },
+    {
+      "page_id": "3ab5d928-0c0d-80ab-9c8f-f3ee2eeede3b",
+      "question": "Capacity to ship Packages within D days",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-07-28T09:39:00.000Z",
+      "path": "solutions/Medium/095-capacity-to-ship-packages-within-d-days.md",
+      "uploaded_at": "2026-09-26T17:51:11.315413+00:00"
+    },
+    {
+      "page_id": "3ab5d928-0c0d-80c8-a3a6-c97afd164a90",
+      "question": "1539. Kth Missing Positive Number",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search",
+        "Arrays"
+      ],
+      "solved_on": "2026-07-28T10:10:00.000Z",
+      "path": "solutions/Easy/096-1539-kth-missing-positive-number.md",
+      "uploaded_at": "2026-09-26T17:51:11.742275+00:00"
+    },
+    {
+      "page_id": "3ad5d928-0c0d-80ad-85e4-c8fd92a4c1a9",
+      "question": "Aggressive Cows",
+      "difficulty": "Medium",
+      "platform": "GFG",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-07-30T07:56:00.000Z",
+      "path": "solutions/Medium/097-aggressive-cows.md",
+      "uploaded_at": "2026-09-26T17:51:11.959227+00:00"
     }
   ]
 }
