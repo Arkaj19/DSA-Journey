@@ -1180,6 +1180,18 @@
       "solved_on": "2026-07-30T07:56:00.000Z",
       "path": "solutions/Medium/097-aggressive-cows.md",
       "uploaded_at": "2026-09-26T17:51:11.959227+00:00"
+    },
+    {
+      "page_id": "3b15d928-0c0d-8025-ba99-d22eb38d6d63",
+      "question": "Allocate Minimum Pages",
+      "difficulty": "Hard",
+      "platform": "GFG",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-08-03T10:35:00.000Z",
+      "path": "solutions/Hard/098-allocate-minimum-pages.md",
+      "uploaded_at": "2026-09-27T18:33:22.673748+00:00"
     }
   ]
 }
