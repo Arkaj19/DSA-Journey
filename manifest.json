@@ -1192,6 +1192,42 @@
       "solved_on": "2026-08-03T10:35:00.000Z",
       "path": "solutions/Hard/098-allocate-minimum-pages.md",
       "uploaded_at": "2026-09-27T18:33:22.673748+00:00"
+    },
+    {
+      "page_id": "3b25d928-0c0d-8029-a210-dcf7acec9b2e",
+      "question": "Painter\u2019s Partition",
+      "difficulty": "Medium",
+      "platform": "GFG",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-08-04T06:49:00.000Z",
+      "path": "solutions/Medium/099-painter-s-partition.md",
+      "uploaded_at": "2026-09-28T20:38:37.618883+00:00"
+    },
+    {
+      "page_id": "3b25d928-0c0d-8063-9e7c-d5a30af6ede1",
+      "question": "410. Split Array Largest Sum",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-08-04T10:29:00.000Z",
+      "path": "solutions/Hard/100-410-split-array-largest-sum.md",
+      "uploaded_at": "2026-09-28T20:38:38.261933+00:00"
+    },
+    {
+      "page_id": "3b25d928-0c0d-80b1-8242-ffd2f9b887a8",
+      "question": "4. Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-08-04T20:46:00.000Z",
+      "path": "solutions/Hard/101-4-median-of-two-sorted-arrays.md",
+      "uploaded_at": "2026-09-28T20:38:38.515266+00:00"
     }
   ]
 }

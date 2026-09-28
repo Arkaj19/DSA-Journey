@@ -7,25 +7,25 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-98-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-4-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-101-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-54-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-6-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 35 |
-| 🟡 Medium | 53 |
-| 🔴 Hard | 4 |
+| 🟡 Medium | 54 |
+| 🔴 Hard | 6 |
 | ⚪ Unsorted | 6 |
 
 ### Top topics
 
 | Topic | Count |
 |---|---|
+| Binary Search | 20 |
 | Arrays | 19 |
 | DP | 17 |
-| Binary Search | 17 |
 | Greedy | 9 |
 | Math | 9 |
 | Strings | 8 |
@@ -36,13 +36,16 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-27 18:33 UTC_
+_Last synced: 2026-09-28 20:38 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [4. Median of Two Sorted Arrays](solutions/Hard/101-4-median-of-two-sorted-arrays.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
+- [410. Split Array Largest Sum](solutions/Hard/100-410-split-array-largest-sum.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
+- [Painter’s Partition](solutions/Medium/099-painter-s-partition.md) — 🟡 Medium · GFG · _added 2026-09-28_
 - [Allocate Minimum Pages](solutions/Hard/098-allocate-minimum-pages.md) — 🔴 Hard · GFG · _added 2026-09-27_
 - [Aggressive Cows](solutions/Medium/097-aggressive-cows.md) — 🟡 Medium · GFG · _added 2026-09-26_
 - [1539. Kth Missing Positive Number](solutions/Easy/096-1539-kth-missing-positive-number.md) — 🟢 Easy · LeetCode · _added 2026-09-26_
@@ -55,9 +58,6 @@ _Last synced: 2026-09-27 18:33 UTC_
 - [Find the sqrt of an integer](solutions/Unsorted/089-find-the-sqrt-of-an-integer.md) — ⚪ Unsorted · Other · _added 2026-09-23_
 - [Single element in Sorted Array](solutions/Medium/088-single-element-in-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-23_
 - [Find Minimum in Rotated Sorted Array](solutions/Medium/087-find-minimum-in-rotated-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-23_
-- [Find Kth Rotation](solutions/Easy/086-find-kth-rotation.md) — 🟢 Easy · GFG · _added 2026-09-22_
-- [Search in Rotated Sorted array 2](solutions/Medium/085-search-in-rotated-sorted-array-2.md) — 🟡 Medium · LeetCode · _added 2026-09-22_
-- [Maximum Number of Balloons](solutions/Easy/084-maximum-number-of-balloons.md) — 🟢 Easy · LeetCode · _added 2026-09-22_
 <!-- RECENT:END -->
 
 ## 📂 Structure
