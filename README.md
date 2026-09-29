@@ -7,8 +7,8 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-101-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-54-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-6-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-102-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-54-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 ### Breakdown by difficulty
 
@@ -16,14 +16,14 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 |---|---|
 | 🟢 Easy | 35 |
 | 🟡 Medium | 54 |
-| 🔴 Hard | 6 |
+| 🔴 Hard | 7 |
 | ⚪ Unsorted | 6 |
 
 ### Top topics
 
 | Topic | Count |
 |---|---|
-| Binary Search | 20 |
+| Binary Search | 21 |
 | Arrays | 19 |
 | DP | 17 |
 | Greedy | 9 |
@@ -36,13 +36,14 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-28 20:38 UTC_
+_Last synced: 2026-09-29 19:33 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Minimize Max Distance of Adjacent Gas Stations](solutions/Hard/102-minimize-max-distance-of-adjacent-gas-stations.md) — 🔴 Hard · LeetCode · _added 2026-09-29_
 - [4. Median of Two Sorted Arrays](solutions/Hard/101-4-median-of-two-sorted-arrays.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
 - [410. Split Array Largest Sum](solutions/Hard/100-410-split-array-largest-sum.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
 - [Painter’s Partition](solutions/Medium/099-painter-s-partition.md) — 🟡 Medium · GFG · _added 2026-09-28_
@@ -57,7 +58,6 @@ _Last synced: 2026-09-28 20:38 UTC_
 - [Find nth root of an integer](solutions/Medium/090-find-nth-root-of-an-integer.md) — 🟡 Medium · GFG · _added 2026-09-24_
 - [Find the sqrt of an integer](solutions/Unsorted/089-find-the-sqrt-of-an-integer.md) — ⚪ Unsorted · Other · _added 2026-09-23_
 - [Single element in Sorted Array](solutions/Medium/088-single-element-in-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-23_
-- [Find Minimum in Rotated Sorted Array](solutions/Medium/087-find-minimum-in-rotated-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-23_
 <!-- RECENT:END -->
 
 ## 📂 Structure

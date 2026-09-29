@@ -1228,6 +1228,18 @@
       "solved_on": "2026-08-04T20:46:00.000Z",
       "path": "solutions/Hard/101-4-median-of-two-sorted-arrays.md",
       "uploaded_at": "2026-09-28T20:38:38.515266+00:00"
+    },
+    {
+      "page_id": "3b35d928-0c0d-80e2-8324-d5e864794219",
+      "question": "Minimize Max Distance of Adjacent Gas Stations",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search"
+      ],
+      "solved_on": "2026-08-05T20:41:00.000Z",
+      "path": "solutions/Hard/102-minimize-max-distance-of-adjacent-gas-stations.md",
+      "uploaded_at": "2026-09-29T19:33:45.921541+00:00"
     }
   ]
 }
