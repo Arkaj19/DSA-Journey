@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-102-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-54-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-103-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 35 |
-| 🟡 Medium | 54 |
+| 🟡 Medium | 55 |
 | 🔴 Hard | 7 |
 | ⚪ Unsorted | 6 |
 
@@ -23,8 +23,8 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 
 | Topic | Count |
 |---|---|
-| Binary Search | 21 |
-| Arrays | 19 |
+| Binary Search | 22 |
+| Arrays | 20 |
 | DP | 17 |
 | Greedy | 9 |
 | Math | 9 |
@@ -36,13 +36,14 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-09-29 19:33 UTC_
+_Last synced: 2026-09-30 19:31 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [kth element of 2 sorted arrays](solutions/Medium/103-kth-element-of-2-sorted-arrays.md) — 🟡 Medium · GFG · _added 2026-09-30_
 - [Minimize Max Distance of Adjacent Gas Stations](solutions/Hard/102-minimize-max-distance-of-adjacent-gas-stations.md) — 🔴 Hard · LeetCode · _added 2026-09-29_
 - [4. Median of Two Sorted Arrays](solutions/Hard/101-4-median-of-two-sorted-arrays.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
 - [410. Split Array Largest Sum](solutions/Hard/100-410-split-array-largest-sum.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
@@ -57,7 +58,6 @@ _Last synced: 2026-09-29 19:33 UTC_
 - [koko eating bananas](solutions/Medium/091-koko-eating-bananas.md) — 🟡 Medium · LeetCode · _added 2026-09-24_
 - [Find nth root of an integer](solutions/Medium/090-find-nth-root-of-an-integer.md) — 🟡 Medium · GFG · _added 2026-09-24_
 - [Find the sqrt of an integer](solutions/Unsorted/089-find-the-sqrt-of-an-integer.md) — ⚪ Unsorted · Other · _added 2026-09-23_
-- [Single element in Sorted Array](solutions/Medium/088-single-element-in-sorted-array.md) — 🟡 Medium · LeetCode · _added 2026-09-23_
 <!-- RECENT:END -->
 
 ## 📂 Structure

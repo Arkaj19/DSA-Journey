@@ -1240,6 +1240,19 @@
       "solved_on": "2026-08-05T20:41:00.000Z",
       "path": "solutions/Hard/102-minimize-max-distance-of-adjacent-gas-stations.md",
       "uploaded_at": "2026-09-29T19:33:45.921541+00:00"
+    },
+    {
+      "page_id": "3b35d928-0c0d-80f0-928b-cea98b15aeac",
+      "question": "kth element of 2 sorted arrays",
+      "difficulty": "Medium",
+      "platform": "GFG",
+      "topics": [
+        "Binary Search",
+        "Arrays"
+      ],
+      "solved_on": "2026-08-05T21:00:00.000Z",
+      "path": "solutions/Medium/103-kth-element-of-2-sorted-arrays.md",
+      "uploaded_at": "2026-09-30T19:31:47.540151+00:00"
     }
   ]
 }
