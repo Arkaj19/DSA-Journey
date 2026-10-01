@@ -1253,6 +1253,45 @@
       "solved_on": "2026-08-05T21:00:00.000Z",
       "path": "solutions/Medium/103-kth-element-of-2-sorted-arrays.md",
       "uploaded_at": "2026-09-30T19:31:47.540151+00:00"
+    },
+    {
+      "page_id": "3b45d928-0c0d-8081-a528-e54b19492719",
+      "question": "Find row with maximum 1's",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search",
+        "Arrays"
+      ],
+      "solved_on": "2026-08-06T10:49:00.000Z",
+      "path": "solutions/Easy/104-find-row-with-maximum-1-s.md",
+      "uploaded_at": "2026-10-01T19:39:14.535920+00:00"
+    },
+    {
+      "page_id": "3b45d928-0c0d-8075-85f9-db6159b72f3e",
+      "question": "74. Search a 2D Matrix",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search",
+        "Arrays"
+      ],
+      "solved_on": "2026-08-06T18:52:00.000Z",
+      "path": "solutions/Medium/105-74-search-a-2d-matrix.md",
+      "uploaded_at": "2026-10-01T19:39:14.722557+00:00"
+    },
+    {
+      "page_id": "3b55d928-0c0d-80ec-9641-e616741e99fc",
+      "question": "Search a 2d matrix II",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Binary Search",
+        "Arrays"
+      ],
+      "solved_on": "2026-08-07T07:59:00.000Z",
+      "path": "solutions/Medium/106-search-a-2d-matrix-ii.md",
+      "uploaded_at": "2026-10-01T19:39:15.039061+00:00"
     }
   ]
 }
