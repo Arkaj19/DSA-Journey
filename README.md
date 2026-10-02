@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-106-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-109-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-60-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 36 |
-| 🟡 Medium | 57 |
+| 🟡 Medium | 60 |
 | 🔴 Hard | 7 |
 | ⚪ Unsorted | 6 |
 
@@ -23,8 +23,8 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 
 | Topic | Count |
 |---|---|
-| Binary Search | 25 |
-| Arrays | 23 |
+| Binary Search | 28 |
+| Arrays | 25 |
 | DP | 17 |
 | Greedy | 9 |
 | Math | 9 |
@@ -36,13 +36,16 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-10-01 19:39 UTC_
+_Last synced: 2026-10-02 19:25 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Matrix median ](solutions/Medium/109-matrix-median.md) — 🟡 Medium · GFG · _added 2026-10-02_
+- [Find peak element 2 : Matrix based](solutions/Medium/108-find-peak-element-2-matrix-based.md) — 🟡 Medium · LeetCode · _added 2026-10-02_
+- [Find Peak Element](solutions/Medium/107-find-peak-element.md) — 🟡 Medium · LeetCode · _added 2026-10-02_
 - [Search a 2d matrix II](solutions/Medium/106-search-a-2d-matrix-ii.md) — 🟡 Medium · LeetCode · _added 2026-10-01_
 - [74. Search a 2D Matrix](solutions/Medium/105-74-search-a-2d-matrix.md) — 🟡 Medium · LeetCode · _added 2026-10-01_
 - [Find row with maximum 1's](solutions/Easy/104-find-row-with-maximum-1-s.md) — 🟢 Easy · LeetCode · _added 2026-10-01_
@@ -55,9 +58,6 @@ _Last synced: 2026-10-01 19:39 UTC_
 - [Aggressive Cows](solutions/Medium/097-aggressive-cows.md) — 🟡 Medium · GFG · _added 2026-09-26_
 - [1539. Kth Missing Positive Number](solutions/Easy/096-1539-kth-missing-positive-number.md) — 🟢 Easy · LeetCode · _added 2026-09-26_
 - [Capacity to ship Packages within D days](solutions/Medium/095-capacity-to-ship-packages-within-d-days.md) — 🟡 Medium · LeetCode · _added 2026-09-26_
-- [1283. Find the Smallest Divisor Given a Threshold](solutions/Medium/094-1283-find-the-smallest-divisor-given-a-threshold.md) — 🟡 Medium · LeetCode · _added 2026-09-25_
-- [Untitled](solutions/Unsorted/093-untitled.md) — ⚪ Unsorted · Other · _added 2026-09-25_
-- [maximum bouquets in M days](solutions/Medium/092-maximum-bouquets-in-m-days.md) — 🟡 Medium · LeetCode · _added 2026-09-25_
 <!-- RECENT:END -->
 
 ## 📂 Structure
