@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-109-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-60-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-112-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-63-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 36 |
-| 🟡 Medium | 60 |
+| 🟡 Medium | 63 |
 | 🔴 Hard | 7 |
 | ⚪ Unsorted | 6 |
 
@@ -24,7 +24,7 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Topic | Count |
 |---|---|
 | Binary Search | 28 |
-| Arrays | 25 |
+| Arrays | 26 |
 | DP | 17 |
 | Greedy | 9 |
 | Math | 9 |
@@ -36,13 +36,16 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Trees | 3 |
 | Linked List | 3 |
 
-_Last synced: 2026-10-02 19:25 UTC_
+_Last synced: 2026-10-03 18:04 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Count good numbers](solutions/Medium/112-count-good-numbers.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
+- [pow(x,n)](solutions/Medium/111-pow-x-n.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
+- [atoi](solutions/Medium/110-atoi.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
 - [Matrix median ](solutions/Medium/109-matrix-median.md) — 🟡 Medium · GFG · _added 2026-10-02_
 - [Find peak element 2 : Matrix based](solutions/Medium/108-find-peak-element-2-matrix-based.md) — 🟡 Medium · LeetCode · _added 2026-10-02_
 - [Find Peak Element](solutions/Medium/107-find-peak-element.md) — 🟡 Medium · LeetCode · _added 2026-10-02_
@@ -55,9 +58,6 @@ _Last synced: 2026-10-02 19:25 UTC_
 - [410. Split Array Largest Sum](solutions/Hard/100-410-split-array-largest-sum.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
 - [Painter’s Partition](solutions/Medium/099-painter-s-partition.md) — 🟡 Medium · GFG · _added 2026-09-28_
 - [Allocate Minimum Pages](solutions/Hard/098-allocate-minimum-pages.md) — 🔴 Hard · GFG · _added 2026-09-27_
-- [Aggressive Cows](solutions/Medium/097-aggressive-cows.md) — 🟡 Medium · GFG · _added 2026-09-26_
-- [1539. Kth Missing Positive Number](solutions/Easy/096-1539-kth-missing-positive-number.md) — 🟢 Easy · LeetCode · _added 2026-09-26_
-- [Capacity to ship Packages within D days](solutions/Medium/095-capacity-to-ship-packages-within-d-days.md) — 🟡 Medium · LeetCode · _added 2026-09-26_
 <!-- RECENT:END -->
 
 ## 📂 Structure
