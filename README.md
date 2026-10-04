@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-112-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-63-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-115-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-66-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 36 |
-| 🟡 Medium | 63 |
+| 🟡 Medium | 66 |
 | 🔴 Hard | 7 |
 | ⚪ Unsorted | 6 |
 
@@ -32,17 +32,20 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Graphs | 6 |
 | Two Pointers | 6 |
 | Prefix Sum | 6 |
+| Recursion | 6 |
 | Sliding Window | 3 |
 | Trees | 3 |
-| Linked List | 3 |
 
-_Last synced: 2026-10-03 18:04 UTC_
+_Last synced: 2026-10-04 18:14 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Subsets](solutions/Medium/115-subsets.md) — 🟡 Medium · LeetCode · _added 2026-10-04_
+- [Generate Parentheses](solutions/Medium/114-generate-parentheses.md) — 🟡 Medium · LeetCode · _added 2026-10-04_
+- [Generate Binary Strings without Adjacent Zeroes](solutions/Medium/113-generate-binary-strings-without-adjacent-zeroes.md) — 🟡 Medium · LeetCode · _added 2026-10-04_
 - [Count good numbers](solutions/Medium/112-count-good-numbers.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
 - [pow(x,n)](solutions/Medium/111-pow-x-n.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
 - [atoi](solutions/Medium/110-atoi.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
@@ -55,9 +58,6 @@ _Last synced: 2026-10-03 18:04 UTC_
 - [kth element of 2 sorted arrays](solutions/Medium/103-kth-element-of-2-sorted-arrays.md) — 🟡 Medium · GFG · _added 2026-09-30_
 - [Minimize Max Distance of Adjacent Gas Stations](solutions/Hard/102-minimize-max-distance-of-adjacent-gas-stations.md) — 🔴 Hard · LeetCode · _added 2026-09-29_
 - [4. Median of Two Sorted Arrays](solutions/Hard/101-4-median-of-two-sorted-arrays.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
-- [410. Split Array Largest Sum](solutions/Hard/100-410-split-array-largest-sum.md) — 🔴 Hard · LeetCode · _added 2026-09-28_
-- [Painter’s Partition](solutions/Medium/099-painter-s-partition.md) — 🟡 Medium · GFG · _added 2026-09-28_
-- [Allocate Minimum Pages](solutions/Hard/098-allocate-minimum-pages.md) — 🔴 Hard · GFG · _added 2026-09-27_
 <!-- RECENT:END -->
 
 ## 📂 Structure
