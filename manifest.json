@@ -1404,6 +1404,18 @@
       "solved_on": "2026-08-19T11:50:00.000Z",
       "path": "solutions/Medium/115-subsets.md",
       "uploaded_at": "2026-10-04T18:14:39.325983+00:00"
+    },
+    {
+      "page_id": "3c15d928-0c0d-806f-9ec3-e3f644ef3b6f",
+      "question": "Number of Subsequences That Satisfy the Given Sum Condition",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Recursion"
+      ],
+      "solved_on": "2026-08-19T12:04:00.000Z",
+      "path": "solutions/Medium/116-number-of-subsequences-that-satisfy-the-given-sum-condition.md",
+      "uploaded_at": "2026-10-05T21:32:39.152658+00:00"
     }
   ]
 }
