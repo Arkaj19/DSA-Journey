@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-117-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-68-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-118-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-69-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 36 |
-| 🟡 Medium | 68 |
+| 🟡 Medium | 69 |
 | 🔴 Hard | 7 |
 | ⚪ Unsorted | 6 |
 
@@ -28,21 +28,22 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | DP | 17 |
 | Greedy | 9 |
 | Math | 9 |
+| Recursion | 9 |
 | Strings | 8 |
-| Recursion | 8 |
 | Graphs | 6 |
 | Two Pointers | 6 |
 | Prefix Sum | 6 |
 | Sliding Window | 3 |
 | Trees | 3 |
 
-_Last synced: 2026-10-06 19:37 UTC_
+_Last synced: 2026-10-07 20:02 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [combination sum 2](solutions/Medium/118-combination-sum-2.md) — 🟡 Medium · LeetCode · _added 2026-10-07_
 - [Combination Sum](solutions/Medium/117-combination-sum.md) — 🟡 Medium · LeetCode · _added 2026-10-06_
 - [Number of Subsequences That Satisfy the Given Sum Condition](solutions/Medium/116-number-of-subsequences-that-satisfy-the-given-sum-condition.md) — 🟡 Medium · LeetCode · _added 2026-10-05_
 - [Subsets](solutions/Medium/115-subsets.md) — 🟡 Medium · LeetCode · _added 2026-10-04_
@@ -57,7 +58,6 @@ _Last synced: 2026-10-06 19:37 UTC_
 - [Search a 2d matrix II](solutions/Medium/106-search-a-2d-matrix-ii.md) — 🟡 Medium · LeetCode · _added 2026-10-01_
 - [74. Search a 2D Matrix](solutions/Medium/105-74-search-a-2d-matrix.md) — 🟡 Medium · LeetCode · _added 2026-10-01_
 - [Find row with maximum 1's](solutions/Easy/104-find-row-with-maximum-1-s.md) — 🟢 Easy · LeetCode · _added 2026-10-01_
-- [kth element of 2 sorted arrays](solutions/Medium/103-kth-element-of-2-sorted-arrays.md) — 🟡 Medium · GFG · _added 2026-09-30_
 <!-- RECENT:END -->
 
 ## 📂 Structure

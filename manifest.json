@@ -1428,6 +1428,18 @@
       "solved_on": "2026-08-20T11:59:00.000Z",
       "path": "solutions/Medium/117-combination-sum.md",
       "uploaded_at": "2026-10-06T19:37:20.183982+00:00"
+    },
+    {
+      "page_id": "3c65d928-0c0d-80f7-a4c6-eece366f893a",
+      "question": "combination sum 2",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Recursion"
+      ],
+      "solved_on": "2026-08-24T18:54:00.000Z",
+      "path": "solutions/Medium/118-combination-sum-2.md",
+      "uploaded_at": "2026-10-07T20:02:22.332412+00:00"
     }
   ]
 }
