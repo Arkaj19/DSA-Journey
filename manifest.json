@@ -1440,6 +1440,42 @@
       "solved_on": "2026-08-24T18:54:00.000Z",
       "path": "solutions/Medium/118-combination-sum-2.md",
       "uploaded_at": "2026-10-07T20:02:22.332412+00:00"
+    },
+    {
+      "page_id": "3c65d928-0c0d-80a3-9eab-c0590155ac81",
+      "question": "combinations",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Recursion"
+      ],
+      "solved_on": "2026-08-24T19:43:00.000Z",
+      "path": "solutions/Medium/119-combinations.md",
+      "uploaded_at": "2026-10-08T20:00:55.201571+00:00"
+    },
+    {
+      "page_id": "3c85d928-0c0d-8081-bdbd-c37151ff6a29",
+      "question": "Permutations",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Recursion"
+      ],
+      "solved_on": "2026-08-26T09:45:00.000Z",
+      "path": "solutions/Medium/120-permutations.md",
+      "uploaded_at": "2026-10-08T20:00:55.574017+00:00"
+    },
+    {
+      "page_id": "3c95d928-0c0d-8011-aea7-e47068e4ee34",
+      "question": "Subsets  2",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Recursion"
+      ],
+      "solved_on": "2026-08-27T04:59:00.000Z",
+      "path": "solutions/Medium/121-subsets-2.md",
+      "uploaded_at": "2026-10-08T20:00:55.861142+00:00"
     }
   ]
 }
