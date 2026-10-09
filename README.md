@@ -7,15 +7,15 @@ to be a place I actually want to come back and revisit, not a dump.
 Each file has the problem context, my notes, and the exact solution I wrote.
 
 <!-- STATS:START -->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-121-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-72-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-123-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-74-yellow?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 ### Breakdown by difficulty
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 36 |
-| 🟡 Medium | 72 |
+| 🟡 Medium | 74 |
 | 🔴 Hard | 7 |
 | ⚪ Unsorted | 6 |
 
@@ -26,7 +26,7 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Binary Search | 28 |
 | Arrays | 26 |
 | DP | 17 |
-| Recursion | 12 |
+| Recursion | 14 |
 | Greedy | 9 |
 | Math | 9 |
 | Strings | 8 |
@@ -36,13 +36,15 @@ Each file has the problem context, my notes, and the exact solution I wrote.
 | Sliding Window | 3 |
 | Trees | 3 |
 
-_Last synced: 2026-10-08 20:00 UTC_
+_Last synced: 2026-10-09 19:35 UTC_
 
 <!-- STATS:END -->
 
 ## 🆕 Recently added
 
 <!-- RECENT:START -->
+- [Word search](solutions/Medium/123-word-search.md) — 🟡 Medium · LeetCode · _added 2026-10-09_
+- [Permutations 2](solutions/Medium/122-permutations-2.md) — 🟡 Medium · LeetCode · _added 2026-10-09_
 - [Subsets  2](solutions/Medium/121-subsets-2.md) — 🟡 Medium · LeetCode · _added 2026-10-08_
 - [Permutations](solutions/Medium/120-permutations.md) — 🟡 Medium · LeetCode · _added 2026-10-08_
 - [combinations](solutions/Medium/119-combinations.md) — 🟡 Medium · LeetCode · _added 2026-10-08_
@@ -56,8 +58,6 @@ _Last synced: 2026-10-08 20:00 UTC_
 - [pow(x,n)](solutions/Medium/111-pow-x-n.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
 - [atoi](solutions/Medium/110-atoi.md) — 🟡 Medium · LeetCode · _added 2026-10-03_
 - [Matrix median ](solutions/Medium/109-matrix-median.md) — 🟡 Medium · GFG · _added 2026-10-02_
-- [Find peak element 2 : Matrix based](solutions/Medium/108-find-peak-element-2-matrix-based.md) — 🟡 Medium · LeetCode · _added 2026-10-02_
-- [Find Peak Element](solutions/Medium/107-find-peak-element.md) — 🟡 Medium · LeetCode · _added 2026-10-02_
 <!-- RECENT:END -->
 
 ## 📂 Structure

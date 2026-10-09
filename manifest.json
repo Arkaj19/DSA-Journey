@@ -1476,6 +1476,30 @@
       "solved_on": "2026-08-27T04:59:00.000Z",
       "path": "solutions/Medium/121-subsets-2.md",
       "uploaded_at": "2026-10-08T20:00:55.861142+00:00"
+    },
+    {
+      "page_id": "3c95d928-0c0d-8048-8ec9-fed62e53aac1",
+      "question": "Permutations 2",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Recursion"
+      ],
+      "solved_on": "2026-08-27T12:22:00.000Z",
+      "path": "solutions/Medium/122-permutations-2.md",
+      "uploaded_at": "2026-10-09T19:35:46.143537+00:00"
+    },
+    {
+      "page_id": "3cb5d928-0c0d-808d-9438-fc9f08c4093c",
+      "question": "Word search",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "topics": [
+        "Recursion"
+      ],
+      "solved_on": "2026-08-29T16:03:00.000Z",
+      "path": "solutions/Medium/123-word-search.md",
+      "uploaded_at": "2026-10-09T19:35:46.369454+00:00"
     }
   ]
 }
